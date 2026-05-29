@@ -1,0 +1,2001 @@
+portfolio_id,stock_symbol,stock_name,quantity,stock_sector,purchase_price
+PORT-1001,KO,The Coca-Cola Company,140,Consumer Defensive,57.134
+PORT-1001,WMT,Walmart Inc.,9,Consumer Defensive,100.759
+PORT-1001,MSFT,Microsoft Corporation,68,Technology,326.0093
+PORT-1001,PLTR,Palantir Technologies Inc.,6,Technology,139.1355
+PORT-1001,GE,General Electric Company,32,Industrials,231.5633
+PORT-1001,MA,Mastercard Incorporated,48,Financial Services,366.3296
+PORT-1001,QQQ,Invesco QQQ Trust,132,Index Funds / ETFs,649.2105
+PORT-1001,MSFT,Microsoft Corporation,47,Technology,433.3035
+PORT-1001,PG,The Procter & Gamble Company,12,Consumer Defensive,112.0924
+PORT-1001,ABBV,AbbVie Inc.,7,Healthcare,168.012
+PORT-1001,INTC,Intel Corporation,1,Technology,87.6744
+PORT-1001,GOOG,Alphabet Inc.,104,Technology,342.4987
+PORT-1001,VOO,Vanguard S&P 500 ETF,53,Index Funds / ETFs,593.3656
+PORT-1001,WMT,Walmart Inc.,105,Consumer Defensive,125.6524
+PORT-1001,BA,The Boeing Company,80,Industrials,183.926
+PORT-1001,PLTR,Palantir Technologies Inc.,49,Technology,95.4072
+PORT-1001,BA,The Boeing Company,103,Industrials,188.412
+PORT-1001,VOO,Vanguard S&P 500 ETF,137,Index Funds / ETFs,531.2692
+PORT-1001,NVDA,NVIDIA Corporation,85,Technology,155.198
+PORT-1001,PLTR,Palantir Technologies Inc.,52,Technology,96.7323
+PORT-1001,BA,The Boeing Company,146,Industrials,240.001
+PORT-1001,MSFT,Microsoft Corporation,78,Technology,338.3894
+PORT-1001,BA,The Boeing Company,112,Industrials,188.412
+PORT-1001,TSLA,"Tesla, Inc.",12,Consumer Cyclical,440.36
+PORT-1001,PYPL,"PayPal Holdings, Inc.",88,Financial Services,35.4456
+PORT-1001,GOOG,Alphabet Inc.,52,Technology,323.2572
+PORT-1001,JPM,JPMorgan Chase & Co.,144,Financial Services,323.2224
+PORT-1001,GOOG,Alphabet Inc.,58,Technology,273.2293
+PORT-1001,ABBV,AbbVie Inc.,92,Healthcare,189.552
+PORT-1001,GOOG,Alphabet Inc.,36,Technology,380.9817
+PORT-1001,PLTR,Palantir Technologies Inc.,74,Technology,95.4072
+PORT-1001,TSLA,"Tesla, Inc.",115,Consumer Cyclical,418.342
+PORT-1001,PYPL,"PayPal Holdings, Inc.",20,Financial Services,40.6968
+PORT-1001,PG,The Procter & Gamble Company,41,Consumer Defensive,140.1155
+PORT-1001,MSFT,Microsoft Corporation,61,Technology,412.67
+PORT-1001,GOOG,Alphabet Inc.,36,Technology,280.9259
+PORT-1001,TSLA,"Tesla, Inc.",71,Consumer Cyclical,321.4628
+PORT-1001,PYPL,"PayPal Holdings, Inc.",102,Financial Services,38.9464
+PORT-1001,QQQ,Invesco QQQ Trust,128,Index Funds / ETFs,714.861
+PORT-1001,CVS,CVS Health Corporation,69,Healthcare,77.3388
+PORT-1001,PLTR,Palantir Technologies Inc.,67,Technology,123.2343
+PORT-1001,JPM,JPMorgan Chase & Co.,23,Financial Services,287.3088
+PORT-1001,SOFI,"SoFi Technologies, Inc.",44,Financial Services,16.17
+PORT-1001,PYPL,"PayPal Holdings, Inc.",29,Financial Services,35.4456
+PORT-1001,NVDA,NVIDIA Corporation,63,Technology,155.198
+PORT-1001,MA,Mastercard Incorporated,33,Financial Services,400.9824
+PORT-1001,KO,The Coca-Cola Company,17,Consumer Defensive,58.7664
+PORT-1001,GE,General Electric Company,128,Industrials,244.2517
+PORT-1001,GOOG,Alphabet Inc.,81,Technology,350.1953
+PORT-1001,AAPL,Apple Inc.,29,Technology,223.812
+PORT-1001,JPM,JPMorgan Chase & Co.,90,Financial Services,245.4096
+PORT-1001,VOO,Vanguard S&P 500 ETF,141,Index Funds / ETFs,517.47
+PORT-1001,WMT,Walmart Inc.,99,Consumer Defensive,84.1634
+PORT-1001,NVDA,NVIDIA Corporation,31,Technology,153.072
+PORT-1001,MSFT,Microsoft Corporation,32,Technology,437.4302
+PORT-1001,KO,The Coca-Cola Company,18,Consumer Defensive,58.7664
+PORT-1001,PG,The Procter & Gamble Company,83,Consumer Defensive,141.5904
+PORT-1001,JPM,JPMorgan Chase & Co.,137,Financial Services,329.208
+PORT-1001,WMT,Walmart Inc.,50,Consumer Defensive,120.9108
+PORT-1001,KO,The Coca-Cola Company,96,Consumer Defensive,73.458
+PORT-1001,CVS,CVS Health Corporation,67,Healthcare,70.8939
+PORT-1001,QQQ,Invesco QQQ Trust,107,Index Funds / ETFs,663.7995
+PORT-1001,PG,The Procter & Gamble Company,121,Consumer Defensive,128.3163
+PORT-1001,JPM,JPMorgan Chase & Co.,8,Financial Services,209.496
+PORT-1001,SOFI,"SoFi Technologies, Inc.",96,Financial Services,11.6424
+PORT-1001,WMT,Walmart Inc.,27,Consumer Defensive,93.6466
+PORT-1001,UNH,UnitedHealth Group Incorporated,5,Healthcare,345.609
+PORT-1001,AAPL,Apple Inc.,22,Technology,282.8735
+PORT-1001,BA,The Boeing Company,63,Industrials,163.739
+PORT-1001,PYPL,"PayPal Holdings, Inc.",112,Financial Services,33.6952
+PORT-1001,VOO,Vanguard S&P 500 ETF,81,Index Funds / ETFs,607.1648
+PORT-1001,ABBV,AbbVie Inc.,121,Healthcare,196.014
+PORT-1001,GOOG,Alphabet Inc.,4,Technology,342.4987
+PORT-1001,INTC,Intel Corporation,53,Technology,126.6408
+PORT-1001,WMT,Walmart Inc.,129,Consumer Defensive,87.7196
+PORT-1001,GOOG,Alphabet Inc.,145,Technology,354.0436
+PORT-1001,UNH,UnitedHealth Group Incorporated,103,Healthcare,288.0075
+PORT-1001,AAPL,Apple Inc.,109,Technology,217.595
+PORT-1001,KO,The Coca-Cola Company,134,Consumer Defensive,75.0904
+PORT-1001,TSLA,"Tesla, Inc.",100,Consumer Cyclical,317.0592
+PORT-1001,PG,The Procter & Gamble Company,133,Consumer Defensive,115.0422
+PORT-1001,GE,General Electric Company,84,Industrials,298.1774
+PORT-1001,WMT,Walmart Inc.,138,Consumer Defensive,119.7254
+PORT-1001,JPM,JPMorgan Chase & Co.,145,Financial Services,311.2512
+PORT-1001,WMT,Walmart Inc.,60,Consumer Defensive,113.7984
+PORT-1001,AMZN,"Amazon.com, Inc.",52,Consumer Cyclical,231.0725
+PORT-1001,QQQ,Invesco QQQ Trust,112,Index Funds / ETFs,568.971
+PORT-1001,AMZN,"Amazon.com, Inc.",125,Consumer Cyclical,212.043
+PORT-1001,GE,General Electric Company,125,Industrials,234.7354
+PORT-1001,VOO,Vanguard S&P 500 ETF,133,Index Funds / ETFs,689.96
+PORT-1001,BA,The Boeing Company,130,Industrials,161.496
+PORT-1001,GE,General Electric Company,52,Industrials,285.489
+PORT-1001,INTC,Intel Corporation,53,Technology,108.3753
+PORT-1001,PYPL,"PayPal Holdings, Inc.",35,Financial Services,41.572
+PORT-1001,WMT,Walmart Inc.,38,Consumer Defensive,105.5006
+PORT-1001,KO,The Coca-Cola Company,52,Consumer Defensive,86.5172
+PORT-1001,JPM,JPMorgan Chase & Co.,91,Financial Services,218.4744
+PORT-1001,AMZN,"Amazon.com, Inc.",122,Consumer Cyclical,212.043
+PORT-1001,SOFI,"SoFi Technologies, Inc.",129,Financial Services,15.0381
+PORT-1001,XOM,Exxon Mobil Corporation,143,Energy,109.446
+PORT-1001,MA,Mastercard Incorporated,57,Financial Services,450.4864
+PORT-1001,GOOG,Alphabet Inc.,2,Technology,396.3749
+PORT-1001,INTC,Intel Corporation,37,Technology,131.5116
+PORT-1001,PLTR,Palantir Technologies Inc.,6,Technology,139.1355
+PORT-1001,CVS,CVS Health Corporation,3,Healthcare,80.1009
+PORT-1001,GOOG,Alphabet Inc.,67,Technology,388.6783
+PORT-1001,PLTR,Palantir Technologies Inc.,100,Technology,127.2096
+PORT-1001,GE,General Electric Company,37,Industrials,317.21
+PORT-1001,UNH,UnitedHealth Group Incorporated,46,Healthcare,330.2486
+PORT-1001,MA,Mastercard Incorporated,30,Financial Services,514.8416
+PORT-1001,XOM,Exxon Mobil Corporation,45,Energy,125.715
+PORT-1001,INTC,Intel Corporation,67,Technology,101.0691
+PORT-1001,MA,Mastercard Incorporated,47,Financial Services,440.5856
+PORT-1001,NVDA,NVIDIA Corporation,73,Technology,167.954
+PORT-1001,AAPL,Apple Inc.,147,Technology,270.4395
+PORT-1001,MA,Mastercard Incorporated,123,Financial Services,430.6848
+PORT-1001,PG,The Procter & Gamble Company,43,Consumer Defensive,115.0422
+PORT-1001,PG,The Procter & Gamble Company,85,Consumer Defensive,156.3394
+PORT-1001,ABBV,AbbVie Inc.,73,Healthcare,172.32
+PORT-1001,PG,The Procter & Gamble Company,58,Consumer Defensive,107.6677
+PORT-1001,XOM,Exxon Mobil Corporation,55,Energy,155.295
+PORT-1001,KO,The Coca-Cola Company,148,Consumer Defensive,71.8256
+PORT-1001,ABBV,AbbVie Inc.,27,Healthcare,198.168
+PORT-1001,INTC,Intel Corporation,43,Technology,104.7222
+PORT-1002,VOO,Vanguard S&P 500 ETF,113,Index Funds / ETFs,524.3696
+PORT-1002,QQQ,Invesco QQQ Trust,71,Index Funds / ETFs,744.039
+PORT-1002,CVS,CVS Health Corporation,17,Healthcare,64.449
+PORT-1002,JPM,JPMorgan Chase & Co.,43,Financial Services,212.4888
+PORT-1002,PYPL,"PayPal Holdings, Inc.",28,Financial Services,38.9464
+PORT-1002,AMZN,"Amazon.com, Inc.",104,Consumer Cyclical,266.413
+PORT-1002,GOOG,Alphabet Inc.,70,Technology,273.2293
+PORT-1002,KO,The Coca-Cola Company,102,Consumer Defensive,72.6418
+PORT-1002,KO,The Coca-Cola Company,116,Consumer Defensive,75.9066
+PORT-1002,INTC,Intel Corporation,135,Technology,92.5452
+PORT-1002,UNH,UnitedHealth Group Incorporated,137,Healthcare,403.2105
+PORT-1002,MSFT,Microsoft Corporation,86,Technology,437.4302
+PORT-1002,JPM,JPMorgan Chase & Co.,84,Financial Services,227.4528
+PORT-1002,JPM,JPMorgan Chase & Co.,132,Financial Services,302.2728
+PORT-1002,PLTR,Palantir Technologies Inc.,109,Technology,143.1108
+PORT-1002,MSFT,Microsoft Corporation,41,Technology,354.8962
+PORT-1002,KO,The Coca-Cola Company,54,Consumer Defensive,71.8256
+PORT-1002,XOM,Exxon Mobil Corporation,116,Energy,141.984
+PORT-1002,UNH,UnitedHealth Group Incorporated,88,Healthcare,322.5684
+PORT-1002,JPM,JPMorgan Chase & Co.,80,Financial Services,317.2368
+PORT-1002,JPM,JPMorgan Chase & Co.,150,Financial Services,260.3736
+PORT-1002,TSLA,"Tesla, Inc.",27,Consumer Cyclical,484.396
+PORT-1002,WMT,Walmart Inc.,24,Consumer Defensive,93.6466
+PORT-1002,CVS,CVS Health Corporation,103,Healthcare,78.2595
+PORT-1002,PG,The Procter & Gamble Company,130,Consumer Defensive,129.7912
+PORT-1002,JPM,JPMorgan Chase & Co.,57,Financial Services,272.3448
+PORT-1002,WMT,Walmart Inc.,148,Consumer Defensive,84.1634
+PORT-1002,CVS,CVS Health Corporation,38,Healthcare,81.0216
+PORT-1002,MSFT,Microsoft Corporation,118,Technology,301.2491
+PORT-1002,GE,General Electric Company,125,Industrials,295.0053
+PORT-1002,KO,The Coca-Cola Company,127,Consumer Defensive,82.4362
+PORT-1002,INTC,Intel Corporation,145,Technology,113.2461
+PORT-1002,AMZN,"Amazon.com, Inc.",134,Consumer Cyclical,241.9465
+PORT-1002,AAPL,Apple Inc.,92,Technology,326.3925
+PORT-1002,UNH,UnitedHealth Group Incorporated,112,Healthcare,288.0075
+PORT-1002,UNH,UnitedHealth Group Incorporated,56,Healthcare,414.7308
+PORT-1002,AAPL,Apple Inc.,50,Technology,230.029
+PORT-1002,GOOG,Alphabet Inc.,9,Technology,350.1953
+PORT-1002,MA,Mastercard Incorporated,42,Financial Services,366.3296
+PORT-1002,GE,General Electric Company,5,Industrials,304.5216
+PORT-1002,GE,General Electric Company,69,Industrials,291.8332
+PORT-1002,TSLA,"Tesla, Inc.",107,Consumer Cyclical,317.0592
+PORT-1002,GOOG,Alphabet Inc.,121,Technology,373.2851
+PORT-1002,MSFT,Microsoft Corporation,9,Technology,404.4166
+PORT-1002,AAPL,Apple Inc.,142,Technology,261.114
+PORT-1002,JPM,JPMorgan Chase & Co.,16,Financial Services,311.2512
+PORT-1002,INTC,Intel Corporation,33,Technology,86.4567
+PORT-1002,UNH,UnitedHealth Group Incorporated,121,Healthcare,360.9694
+PORT-1002,QQQ,Invesco QQQ Trust,38,Index Funds / ETFs,554.382
+PORT-1002,QQQ,Invesco QQQ Trust,99,Index Funds / ETFs,765.9225
+PORT-1002,GE,General Electric Company,33,Industrials,323.5542
+PORT-1002,VOO,Vanguard S&P 500 ETF,130,Index Funds / ETFs,579.5664
+PORT-1002,INTC,Intel Corporation,10,Technology,98.6337
+PORT-1002,WMT,Walmart Inc.,1,Consumer Defensive,96.0174
+PORT-1002,WMT,Walmart Inc.,36,Consumer Defensive,116.1692
+PORT-1002,JPM,JPMorgan Chase & Co.,103,Financial Services,254.388
+PORT-1002,MA,Mastercard Incorporated,47,Financial Services,391.0816
+PORT-1002,WMT,Walmart Inc.,127,Consumer Defensive,117.3546
+PORT-1002,QQQ,Invesco QQQ Trust,39,Index Funds / ETFs,590.8545
+PORT-1002,JPM,JPMorgan Chase & Co.,96,Financial Services,329.208
+PORT-1002,PLTR,Palantir Technologies Inc.,142,Technology,106.008
+PORT-1002,PYPL,"PayPal Holdings, Inc.",78,Financial Services,42.8848
+PORT-1002,AAPL,Apple Inc.,12,Technology,289.0905
+PORT-1002,BA,The Boeing Company,117,Industrials,159.253
+PORT-1002,QQQ,Invesco QQQ Trust,137,Index Funds / ETFs,802.395
+PORT-1002,PYPL,"PayPal Holdings, Inc.",141,Financial Services,37.6336
+PORT-1002,XOM,Exxon Mobil Corporation,16,Energy,105.009
+PORT-1002,NVDA,NVIDIA Corporation,10,Technology,165.828
+PORT-1002,WMT,Walmart Inc.,42,Consumer Defensive,97.2028
+PORT-1002,GOOG,Alphabet Inc.,24,Technology,319.4089
+PORT-1002,JPM,JPMorgan Chase & Co.,22,Financial Services,221.4672
+PORT-1002,AMZN,"Amazon.com, Inc.",61,Consumer Cyclical,239.228
+PORT-1002,AAPL,Apple Inc.,89,Technology,326.3925
+PORT-1002,GOOG,Alphabet Inc.,91,Technology,411.7681
+PORT-1002,AMZN,"Amazon.com, Inc.",136,Consumer Cyclical,263.6945
+PORT-1002,PYPL,"PayPal Holdings, Inc.",125,Financial Services,31.5072
+PORT-1002,SOFI,"SoFi Technologies, Inc.",88,Financial Services,14.7147
+PORT-1002,KO,The Coca-Cola Company,71,Consumer Defensive,64.4798
+PORT-1002,NVDA,NVIDIA Corporation,70,Technology,197.718
+PORT-1002,TSLA,"Tesla, Inc.",56,Consumer Cyclical,479.9924
+PORT-1002,TSLA,"Tesla, Inc.",148,Consumer Cyclical,484.396
+PORT-1002,SOFI,"SoFi Technologies, Inc.",102,Financial Services,14.7147
+PORT-1002,INTC,Intel Corporation,77,Technology,130.2939
+PORT-1002,AAPL,Apple Inc.,73,Technology,320.1755
+PORT-1002,INTC,Intel Corporation,63,Technology,99.8514
+PORT-1002,PG,The Procter & Gamble Company,83,Consumer Defensive,125.3665
+PORT-1002,GE,General Electric Company,43,Industrials,241.0796
+PORT-1002,GE,General Electric Company,43,Industrials,241.0796
+PORT-1002,NVDA,NVIDIA Corporation,55,Technology,221.104
+PORT-1002,UNH,UnitedHealth Group Incorporated,7,Healthcare,280.3273
+PORT-1002,BA,The Boeing Company,76,Industrials,224.3
+PORT-1002,GOOG,Alphabet Inc.,124,Technology,380.9817
+PORT-1002,PG,The Procter & Gamble Company,120,Consumer Defensive,115.0422
+PORT-1002,PYPL,"PayPal Holdings, Inc.",143,Financial Services,43.76
+PORT-1002,INTC,Intel Corporation,130,Technology,125.4231
+PORT-1002,AMZN,"Amazon.com, Inc.",32,Consumer Cyclical,296.3165
+PORT-1002,AAPL,Apple Inc.,122,Technology,258.0055
+PORT-1002,VOO,Vanguard S&P 500 ETF,82,Index Funds / ETFs,538.1688
+PORT-1002,KO,The Coca-Cola Company,66,Consumer Defensive,76.7228
+PORT-1002,GE,General Electric Company,56,Industrials,231.5633
+PORT-1002,CVS,CVS Health Corporation,119,Healthcare,71.8146
+PORT-1002,PLTR,Palantir Technologies Inc.,3,Technology,109.9833
+PORT-1002,NVDA,NVIDIA Corporation,108,Technology,165.828
+PORT-1002,JPM,JPMorgan Chase & Co.,108,Financial Services,293.2944
+PORT-1002,INTC,Intel Corporation,41,Technology,88.8921
+PORT-1002,JPM,JPMorgan Chase & Co.,23,Financial Services,308.2584
+PORT-1002,QQQ,Invesco QQQ Trust,84,Index Funds / ETFs,722.1555
+PORT-1002,TSLA,"Tesla, Inc.",82,Consumer Cyclical,435.9564
+PORT-1002,JPM,JPMorgan Chase & Co.,90,Financial Services,254.388
+PORT-1002,MA,Mastercard Incorporated,80,Financial Services,376.2304
+PORT-1002,BA,The Boeing Company,135,Industrials,213.085
+PORT-1002,NVDA,NVIDIA Corporation,43,Technology,197.718
+PORT-1002,TSLA,"Tesla, Inc.",119,Consumer Cyclical,312.6556
+PORT-1002,KO,The Coca-Cola Company,32,Consumer Defensive,67.7446
+PORT-1002,MA,Mastercard Incorporated,86,Financial Services,470.288
+PORT-1002,ABBV,AbbVie Inc.,65,Healthcare,204.63
+PORT-1002,CVS,CVS Health Corporation,72,Healthcare,81.9423
+PORT-1002,PYPL,"PayPal Holdings, Inc.",110,Financial Services,42.0096
+PORT-1002,VOO,Vanguard S&P 500 ETF,25,Index Funds / ETFs,724.458
+PORT-1002,GOOG,Alphabet Inc.,119,Technology,280.9259
+PORT-1002,KO,The Coca-Cola Company,57,Consumer Defensive,69.377
+PORT-1002,VOO,Vanguard S&P 500 ETF,112,Index Funds / ETFs,531.2692
+PORT-1002,PLTR,Palantir Technologies Inc.,42,Technology,119.259
+PORT-1002,NVDA,NVIDIA Corporation,23,Technology,204.096
+PORT-1002,PLTR,Palantir Technologies Inc.,136,Technology,95.4072
+PORT-1002,PYPL,"PayPal Holdings, Inc.",117,Financial Services,44.6352
+PORT-1002,PYPL,"PayPal Holdings, Inc.",149,Financial Services,38.9464
+PORT-1002,BA,The Boeing Company,111,Industrials,157.01
+PORT-1003,XOM,Exxon Mobil Corporation,24,Energy,130.152
+PORT-1003,BA,The Boeing Company,63,Industrials,219.814
+PORT-1003,ABBV,AbbVie Inc.,123,Healthcare,215.4
+PORT-1003,AAPL,Apple Inc.,87,Technology,273.548
+PORT-1003,CVS,CVS Health Corporation,77,Healthcare,91.1493
+PORT-1003,AMZN,"Amazon.com, Inc.",86,Consumer Cyclical,193.0135
+PORT-1003,TSLA,"Tesla, Inc.",104,Consumer Cyclical,435.9564
+PORT-1003,PLTR,Palantir Technologies Inc.,148,Technology,96.7323
+PORT-1003,INTC,Intel Corporation,123,Technology,99.8514
+PORT-1003,TSLA,"Tesla, Inc.",14,Consumer Cyclical,413.9384
+PORT-1003,AAPL,Apple Inc.,66,Technology,310.85
+PORT-1003,PLTR,Palantir Technologies Inc.,19,Technology,141.7857
+PORT-1003,MA,Mastercard Incorporated,64,Financial Services,544.544
+PORT-1003,KO,The Coca-Cola Company,58,Consumer Defensive,59.5826
+PORT-1003,XOM,Exxon Mobil Corporation,95,Energy,122.757
+PORT-1003,WMT,Walmart Inc.,113,Consumer Defensive,110.2422
+PORT-1003,XOM,Exxon Mobil Corporation,28,Energy,149.379
+PORT-1003,GE,General Electric Company,143,Industrials,244.2517
+PORT-1003,MSFT,Microsoft Corporation,80,Technology,342.5161
+PORT-1003,NVDA,NVIDIA Corporation,33,Technology,221.104
+PORT-1003,NVDA,NVIDIA Corporation,71,Technology,221.104
+PORT-1003,WMT,Walmart Inc.,127,Consumer Defensive,112.613
+PORT-1003,XOM,Exxon Mobil Corporation,95,Energy,152.337
+PORT-1003,CVS,CVS Health Corporation,128,Healthcare,78.2595
+PORT-1003,CVS,CVS Health Corporation,143,Healthcare,88.3872
+PORT-1003,GOOG,Alphabet Inc.,70,Technology,388.6783
+PORT-1003,BA,The Boeing Company,134,Industrials,226.543
+PORT-1003,XOM,Exxon Mobil Corporation,124,Energy,144.942
+PORT-1003,AAPL,Apple Inc.,145,Technology,295.3075
+PORT-1003,VOO,Vanguard S&P 500 ETF,87,Index Funds / ETFs,731.3576
+PORT-1003,BA,The Boeing Company,12,Industrials,219.814
+PORT-1003,KO,The Coca-Cola Company,129,Consumer Defensive,62.8474
+PORT-1003,GOOG,Alphabet Inc.,56,Technology,273.2293
+PORT-1003,WMT,Walmart Inc.,142,Consumer Defensive,126.8378
+PORT-1003,PG,The Procter & Gamble Company,103,Consumer Defensive,131.2661
+PORT-1003,JPM,JPMorgan Chase & Co.,142,Financial Services,284.316
+PORT-1003,QQQ,Invesco QQQ Trust,148,Index Funds / ETFs,590.8545
+PORT-1003,NVDA,NVIDIA Corporation,18,Technology,201.97
+PORT-1003,VOO,Vanguard S&P 500 ETF,121,Index Funds / ETFs,586.466
+PORT-1003,PYPL,"PayPal Holdings, Inc.",32,Financial Services,46.3856
+PORT-1003,MA,Mastercard Incorporated,137,Financial Services,485.1392
+PORT-1003,GE,General Electric Company,82,Industrials,272.8006
+PORT-1003,VOO,Vanguard S&P 500 ETF,122,Index Funds / ETFs,524.3696
+PORT-1003,NVDA,NVIDIA Corporation,120,Technology,148.82
+PORT-1003,WMT,Walmart Inc.,53,Consumer Defensive,123.2816
+PORT-1003,GOOG,Alphabet Inc.,149,Technology,380.9817
+PORT-1003,JPM,JPMorgan Chase & Co.,145,Financial Services,245.4096
+PORT-1003,TSLA,"Tesla, Inc.",62,Consumer Cyclical,409.5348
+PORT-1003,MSFT,Microsoft Corporation,134,Technology,396.1632
+PORT-1003,XOM,Exxon Mobil Corporation,132,Energy,144.942
+PORT-1003,INTC,Intel Corporation,119,Technology,105.9399
+PORT-1003,TSLA,"Tesla, Inc.",38,Consumer Cyclical,391.9204
+PORT-1003,AMZN,"Amazon.com, Inc.",106,Consumer Cyclical,258.2575
+PORT-1003,KO,The Coca-Cola Company,78,Consumer Defensive,77.539
+PORT-1003,KO,The Coca-Cola Company,17,Consumer Defensive,64.4798
+PORT-1003,GE,General Electric Company,129,Industrials,253.768
+PORT-1003,PYPL,"PayPal Holdings, Inc.",119,Financial Services,47.2608
+PORT-1003,PG,The Procter & Gamble Company,3,Consumer Defensive,154.8645
+PORT-1003,SOFI,"SoFi Technologies, Inc.",12,Financial Services,14.7147
+PORT-1003,ABBV,AbbVie Inc.,135,Healthcare,213.246
+PORT-1003,TSLA,"Tesla, Inc.",97,Consumer Cyclical,471.1852
+PORT-1003,GOOG,Alphabet Inc.,18,Technology,334.8021
+PORT-1003,MSFT,Microsoft Corporation,82,Technology,379.6564
+PORT-1003,QQQ,Invesco QQQ Trust,141,Index Funds / ETFs,700.272
+PORT-1003,CVS,CVS Health Corporation,71,Healthcare,69.9732
+PORT-1003,PG,The Procter & Gamble Company,46,Consumer Defensive,119.4669
+PORT-1003,PG,The Procter & Gamble Company,26,Consumer Defensive,151.9147
+PORT-1003,PG,The Procter & Gamble Company,33,Consumer Defensive,159.2892
+PORT-1003,GOOG,Alphabet Inc.,76,Technology,330.9538
+PORT-1003,MSFT,Microsoft Corporation,45,Technology,292.9957
+PORT-1003,KO,The Coca-Cola Company,150,Consumer Defensive,66.9284
+PORT-1003,MA,Mastercard Incorporated,145,Financial Services,430.6848
+PORT-1003,CVS,CVS Health Corporation,57,Healthcare,83.7837
+PORT-1003,SOFI,"SoFi Technologies, Inc.",7,Financial Services,14.0679
+PORT-1003,MA,Mastercard Incorporated,120,Financial Services,485.1392
+PORT-1003,ABBV,AbbVie Inc.,47,Healthcare,215.4
+PORT-1003,CVS,CVS Health Corporation,56,Healthcare,78.2595
+PORT-1003,MSFT,Microsoft Corporation,36,Technology,445.6836
+PORT-1003,BA,The Boeing Company,150,Industrials,217.571
+PORT-1003,VOO,Vanguard S&P 500 ETF,76,Index Funds / ETFs,662.3616
+PORT-1003,UNH,UnitedHealth Group Incorporated,118,Healthcare,326.4085
+PORT-1003,PLTR,Palantir Technologies Inc.,25,Technology,103.3578
+PORT-1003,PYPL,"PayPal Holdings, Inc.",143,Financial Services,37.6336
+PORT-1003,PYPL,"PayPal Holdings, Inc.",20,Financial Services,36.3208
+PORT-1003,TSLA,"Tesla, Inc.",91,Consumer Cyclical,334.6736
+PORT-1003,VOO,Vanguard S&P 500 ETF,85,Index Funds / ETFs,600.2652
+PORT-1003,PG,The Procter & Gamble Company,102,Consumer Defensive,162.239
+PORT-1003,CVS,CVS Health Corporation,13,Healthcare,87.4665
+PORT-1003,PYPL,"PayPal Holdings, Inc.",44,Financial Services,38.0712
+PORT-1003,KO,The Coca-Cola Company,98,Consumer Defensive,81.62
+PORT-1003,ABBV,AbbVie Inc.,20,Healthcare,150.78
+PORT-1003,UNH,UnitedHealth Group Incorporated,12,Healthcare,280.3273
+PORT-1003,PYPL,"PayPal Holdings, Inc.",141,Financial Services,30.632
+PORT-1003,MSFT,Microsoft Corporation,113,Technology,350.7695
+PORT-1003,AAPL,Apple Inc.,88,Technology,276.6565
+PORT-1003,GE,General Electric Company,100,Industrials,247.4238
+PORT-1003,PG,The Procter & Gamble Company,57,Consumer Defensive,109.1426
+PORT-1003,VOO,Vanguard S&P 500 ETF,89,Index Funds / ETFs,517.47
+PORT-1003,UNH,UnitedHealth Group Incorporated,77,Healthcare,314.8882
+PORT-1003,AMZN,"Amazon.com, Inc.",125,Consumer Cyclical,212.043
+PORT-1003,SOFI,"SoFi Technologies, Inc.",131,Financial Services,16.9785
+PORT-1003,BA,The Boeing Company,33,Industrials,237.758
+PORT-1003,AMZN,"Amazon.com, Inc.",64,Consumer Cyclical,252.8205
+PORT-1003,XOM,Exxon Mobil Corporation,75,Energy,112.404
+PORT-1003,AMZN,"Amazon.com, Inc.",81,Consumer Cyclical,190.295
+PORT-1003,VOO,Vanguard S&P 500 ETF,117,Index Funds / ETFs,724.458
+PORT-1003,AAPL,Apple Inc.,71,Technology,254.897
+PORT-1003,UNH,UnitedHealth Group Incorporated,79,Healthcare,303.3679
+PORT-1003,SOFI,"SoFi Technologies, Inc.",122,Financial Services,15.1998
+PORT-1003,PYPL,"PayPal Holdings, Inc.",107,Financial Services,35.4456
+PORT-1003,ABBV,AbbVie Inc.,2,Healthcare,150.78
+PORT-1003,XOM,Exxon Mobil Corporation,24,Energy,122.757
+PORT-1003,PG,The Procter & Gamble Company,137,Consumer Defensive,160.7641
+PORT-1003,SOFI,"SoFi Technologies, Inc.",45,Financial Services,16.9785
+PORT-1003,KO,The Coca-Cola Company,38,Consumer Defensive,87.3334
+PORT-1003,INTC,Intel Corporation,127,Technology,129.0762
+PORT-1003,GOOG,Alphabet Inc.,41,Technology,342.4987
+PORT-1003,VOO,Vanguard S&P 500 ETF,77,Index Funds / ETFs,586.466
+PORT-1003,PLTR,Palantir Technologies Inc.,149,Technology,120.5841
+PORT-1003,AMZN,"Amazon.com, Inc.",110,Consumer Cyclical,269.1315
+PORT-1003,XOM,Exxon Mobil Corporation,106,Energy,133.11
+PORT-1003,WMT,Walmart Inc.,78,Consumer Defensive,99.5736
+PORT-1003,PLTR,Palantir Technologies Inc.,94,Technology,135.1602
+PORT-1003,UNH,UnitedHealth Group Incorporated,2,Healthcare,288.0075
+PORT-1003,PYPL,"PayPal Holdings, Inc.",55,Financial Services,31.5072
+PORT-1003,UNH,UnitedHealth Group Incorporated,91,Healthcare,295.6877
+PORT-1003,GOOG,Alphabet Inc.,39,Technology,365.5885
+PORT-1003,PLTR,Palantir Technologies Inc.,6,Technology,117.9339
+PORT-1003,ABBV,AbbVie Inc.,63,Healthcare,219.708
+PORT-1003,MA,Mastercard Incorporated,113,Financial Services,346.528
+PORT-1003,PYPL,"PayPal Holdings, Inc.",71,Financial Services,36.7584
+PORT-1003,MA,Mastercard Incorporated,33,Financial Services,470.288
+PORT-1003,TSLA,"Tesla, Inc.",126,Consumer Cyclical,457.9744
+PORT-1003,NVDA,NVIDIA Corporation,134,Technology,153.072
+PORT-1003,MA,Mastercard Incorporated,100,Financial Services,495.04
+PORT-1003,SOFI,"SoFi Technologies, Inc.",22,Financial Services,15.3615
+PORT-1003,KO,The Coca-Cola Company,131,Consumer Defensive,87.3334
+PORT-1003,TSLA,"Tesla, Inc.",100,Consumer Cyclical,312.6556
+PORT-1003,UNH,UnitedHealth Group Incorporated,144,Healthcare,372.4897
+PORT-1003,GE,General Electric Company,76,Industrials,320.3821
+PORT-1003,MSFT,Microsoft Corporation,79,Technology,321.8826
+PORT-1003,INTC,Intel Corporation,30,Technology,98.6337
+PORT-1003,WMT,Walmart Inc.,111,Consumer Defensive,130.394
+PORT-1003,BA,The Boeing Company,82,Industrials,170.468
+PORT-1003,JPM,JPMorgan Chase & Co.,28,Financial Services,263.3664
+PORT-1003,AAPL,Apple Inc.,81,Technology,236.246
+PORT-1003,WMT,Walmart Inc.,98,Consumer Defensive,104.3152
+PORT-1003,GOOG,Alphabet Inc.,147,Technology,357.8919
+PORT-1003,XOM,Exxon Mobil Corporation,47,Energy,149.379
+PORT-1003,UNH,UnitedHealth Group Incorporated,16,Healthcare,345.609
+PORT-1003,AMZN,"Amazon.com, Inc.",41,Consumer Cyclical,274.5685
+PORT-1003,CVS,CVS Health Corporation,62,Healthcare,78.2595
+PORT-1003,GOOG,Alphabet Inc.,49,Technology,380.9817
+PORT-1003,AMZN,"Amazon.com, Inc.",26,Consumer Cyclical,277.287
+PORT-1003,BA,The Boeing Company,81,Industrials,219.814
+PORT-1003,ABBV,AbbVie Inc.,110,Healthcare,172.32
+PORT-1003,AAPL,Apple Inc.,128,Technology,317.067
+PORT-1003,QQQ,Invesco QQQ Trust,127,Index Funds / ETFs,649.2105
+PORT-1003,TSLA,"Tesla, Inc.",57,Consumer Cyclical,431.5528
+PORT-1004,KO,The Coca-Cola Company,46,Consumer Defensive,88.9658
+PORT-1004,ABBV,AbbVie Inc.,97,Healthcare,226.17
+PORT-1004,PLTR,Palantir Technologies Inc.,6,Technology,132.51
+PORT-1004,MSFT,Microsoft Corporation,123,Technology,354.8962
+PORT-1004,TSLA,"Tesla, Inc.",116,Consumer Cyclical,427.1492
+PORT-1004,AMZN,"Amazon.com, Inc.",29,Consumer Cyclical,244.665
+PORT-1004,PLTR,Palantir Technologies Inc.,149,Technology,96.7323
+PORT-1004,TSLA,"Tesla, Inc.",20,Consumer Cyclical,308.252
+PORT-1004,GE,General Electric Company,84,Industrials,247.4238
+PORT-1004,QQQ,Invesco QQQ Trust,7,Index Funds / ETFs,802.395
+PORT-1004,JPM,JPMorgan Chase & Co.,150,Financial Services,218.4744
+PORT-1004,JPM,JPMorgan Chase & Co.,117,Financial Services,260.3736
+PORT-1004,NVDA,NVIDIA Corporation,30,Technology,178.584
+PORT-1004,WMT,Walmart Inc.,70,Consumer Defensive,105.5006
+PORT-1004,AAPL,Apple Inc.,59,Technology,282.8735
+PORT-1004,XOM,Exxon Mobil Corporation,13,Energy,140.505
+PORT-1004,GE,General Electric Company,91,Industrials,222.047
+PORT-1004,VOO,Vanguard S&P 500 ETF,63,Index Funds / ETFs,641.6628
+PORT-1004,SOFI,"SoFi Technologies, Inc.",51,Financial Services,13.9062
+PORT-1004,XOM,Exxon Mobil Corporation,7,Energy,150.858
+PORT-1004,GOOG,Alphabet Inc.,12,Technology,288.6225
+PORT-1004,VOO,Vanguard S&P 500 ETF,60,Index Funds / ETFs,593.3656
+PORT-1004,VOO,Vanguard S&P 500 ETF,85,Index Funds / ETFs,524.3696
+PORT-1004,WMT,Walmart Inc.,36,Consumer Defensive,114.9838
+PORT-1004,BA,The Boeing Company,28,Industrials,159.253
+PORT-1004,QQQ,Invesco QQQ Trust,31,Index Funds / ETFs,641.916
+PORT-1004,NVDA,NVIDIA Corporation,121,Technology,178.584
+PORT-1004,JPM,JPMorgan Chase & Co.,55,Financial Services,263.3664
+PORT-1004,GOOG,Alphabet Inc.,23,Technology,396.3749
+PORT-1004,PYPL,"PayPal Holdings, Inc.",38,Financial Services,45.0728
+PORT-1004,TSLA,"Tesla, Inc.",87,Consumer Cyclical,400.7276
+PORT-1004,AMZN,"Amazon.com, Inc.",76,Consumer Cyclical,282.724
+PORT-1004,INTC,Intel Corporation,116,Technology,122.9877
+PORT-1004,CVS,CVS Health Corporation,40,Healthcare,89.3079
+PORT-1004,MSFT,Microsoft Corporation,25,Technology,309.5025
+PORT-1004,PLTR,Palantir Technologies Inc.,102,Technology,125.8845
+PORT-1004,WMT,Walmart Inc.,6,Consumer Defensive,119.7254
+PORT-1004,JPM,JPMorgan Chase & Co.,50,Financial Services,296.2872
+PORT-1004,UNH,UnitedHealth Group Incorporated,85,Healthcare,318.7283
+PORT-1004,WMT,Walmart Inc.,86,Consumer Defensive,87.7196
+PORT-1004,BA,The Boeing Company,73,Industrials,192.898
+PORT-1004,MSFT,Microsoft Corporation,146,Technology,441.5569
+PORT-1004,AAPL,Apple Inc.,108,Technology,267.331
+PORT-1004,CVS,CVS Health Corporation,27,Healthcare,73.656
+PORT-1004,MA,Mastercard Incorporated,38,Financial Services,524.7424
+PORT-1004,GOOG,Alphabet Inc.,81,Technology,288.6225
+PORT-1004,TSLA,"Tesla, Inc.",98,Consumer Cyclical,391.9204
+PORT-1004,MA,Mastercard Incorporated,75,Financial Services,450.4864
+PORT-1004,NVDA,NVIDIA Corporation,88,Technology,174.332
+PORT-1004,TSLA,"Tesla, Inc.",85,Consumer Cyclical,479.9924
+PORT-1004,PYPL,"PayPal Holdings, Inc.",31,Financial Services,45.0728
+PORT-1004,PG,The Procter & Gamble Company,10,Consumer Defensive,117.992
+PORT-1004,UNH,UnitedHealth Group Incorporated,99,Healthcare,330.2486
+PORT-1004,PG,The Procter & Gamble Company,62,Consumer Defensive,159.2892
+PORT-1004,SOFI,"SoFi Technologies, Inc.",23,Financial Services,15.3615
+PORT-1004,INTC,Intel Corporation,140,Technology,108.3753
+PORT-1004,ABBV,AbbVie Inc.,104,Healthcare,208.938
+PORT-1004,ABBV,AbbVie Inc.,71,Healthcare,191.706
+PORT-1004,ABBV,AbbVie Inc.,142,Healthcare,183.09
+PORT-1004,BA,The Boeing Company,81,Industrials,168.225
+PORT-1004,GOOG,Alphabet Inc.,72,Technology,392.5266
+PORT-1004,VOO,Vanguard S&P 500 ETF,96,Index Funds / ETFs,676.1608
+PORT-1004,CVS,CVS Health Corporation,118,Healthcare,78.2595
+PORT-1004,GOOG,Alphabet Inc.,111,Technology,284.7742
+PORT-1004,ABBV,AbbVie Inc.,36,Healthcare,152.934
+PORT-1004,TSLA,"Tesla, Inc.",126,Consumer Cyclical,457.9744
+PORT-1004,AMZN,"Amazon.com, Inc.",46,Consumer Cyclical,255.539
+PORT-1004,AAPL,Apple Inc.,42,Technology,298.416
+PORT-1004,PLTR,Palantir Technologies Inc.,112,Technology,119.259
+PORT-1004,AAPL,Apple Inc.,59,Technology,230.029
+PORT-1004,PYPL,"PayPal Holdings, Inc.",102,Financial Services,44.1976
+PORT-1004,PG,The Procter & Gamble Company,60,Consumer Defensive,104.7179
+PORT-1004,CVS,CVS Health Corporation,20,Healthcare,71.8146
+PORT-1004,CVS,CVS Health Corporation,25,Healthcare,76.4181
+PORT-1004,INTC,Intel Corporation,29,Technology,129.0762
+PORT-1004,PYPL,"PayPal Holdings, Inc.",15,Financial Services,42.0096
+PORT-1004,BA,The Boeing Company,39,Industrials,181.683
+PORT-1004,ABBV,AbbVie Inc.,111,Healthcare,200.322
+PORT-1004,PG,The Procter & Gamble Company,128,Consumer Defensive,107.6677
+PORT-1004,PLTR,Palantir Technologies Inc.,15,Technology,129.8598
+PORT-1004,PG,The Procter & Gamble Company,29,Consumer Defensive,148.9649
+PORT-1004,QQQ,Invesco QQQ Trust,37,Index Funds / ETFs,554.382
+PORT-1004,XOM,Exxon Mobil Corporation,132,Energy,136.068
+PORT-1004,QQQ,Invesco QQQ Trust,28,Index Funds / ETFs,685.683
+PORT-1004,ABBV,AbbVie Inc.,107,Healthcare,170.166
+PORT-1004,NVDA,NVIDIA Corporation,135,Technology,206.222
+PORT-1004,BA,The Boeing Company,94,Industrials,181.683
+PORT-1004,GE,General Electric Company,89,Industrials,320.3821
+PORT-1004,PG,The Procter & Gamble Company,43,Consumer Defensive,110.6175
+PORT-1004,KO,The Coca-Cola Company,2,Consumer Defensive,62.0312
+PORT-1004,GE,General Electric Company,134,Industrials,326.7263
+PORT-1004,INTC,Intel Corporation,52,Technology,96.1983
+PORT-1004,INTC,Intel Corporation,65,Technology,93.7629
+PORT-1004,VOO,Vanguard S&P 500 ETF,44,Index Funds / ETFs,703.7592
+PORT-1004,TSLA,"Tesla, Inc.",14,Consumer Cyclical,466.7816
+PORT-1004,BA,The Boeing Company,39,Industrials,213.085
+PORT-1004,AAPL,Apple Inc.,110,Technology,248.68
+PORT-1004,NVDA,NVIDIA Corporation,28,Technology,218.978
+PORT-1004,KO,The Coca-Cola Company,78,Consumer Defensive,69.377
+PORT-1004,PYPL,"PayPal Holdings, Inc.",110,Financial Services,45.948
+PORT-1004,AMZN,"Amazon.com, Inc.",65,Consumer Cyclical,269.1315
+PORT-1004,PLTR,Palantir Technologies Inc.,39,Technology,106.008
+PORT-1004,ABBV,AbbVie Inc.,100,Healthcare,213.246
+PORT-1004,SOFI,"SoFi Technologies, Inc.",48,Financial Services,14.3913
+PORT-1004,MA,Mastercard Incorporated,67,Financial Services,499.9904
+PORT-1004,GOOG,Alphabet Inc.,41,Technology,315.5606
+PORT-1004,MSFT,Microsoft Corporation,129,Technology,449.8103
+PORT-1004,JPM,JPMorgan Chase & Co.,38,Financial Services,251.3952
+PORT-1004,AAPL,Apple Inc.,78,Technology,230.029
+PORT-1004,CVS,CVS Health Corporation,82,Healthcare,73.656
+PORT-1004,ABBV,AbbVie Inc.,20,Healthcare,236.94
+PORT-1004,BA,The Boeing Company,54,Industrials,170.468
+PORT-1004,KO,The Coca-Cola Company,122,Consumer Defensive,61.215
+PORT-1004,TSLA,"Tesla, Inc.",54,Consumer Cyclical,396.324
+PORT-1004,PLTR,Palantir Technologies Inc.,91,Technology,104.6829
+PORT-1004,JPM,JPMorgan Chase & Co.,78,Financial Services,305.2656
+PORT-1004,AAPL,Apple Inc.,64,Technology,310.85
+PORT-1004,VOO,Vanguard S&P 500 ETF,135,Index Funds / ETFs,496.7712
+PORT-1004,PLTR,Palantir Technologies Inc.,8,Technology,129.8598
+PORT-1004,MSFT,Microsoft Corporation,145,Technology,350.7695
+PORT-1004,PLTR,Palantir Technologies Inc.,149,Technology,127.2096
+PORT-1005,BA,The Boeing Company,50,Industrials,192.898
+PORT-1005,MA,Mastercard Incorporated,94,Financial Services,480.1888
+PORT-1005,SOFI,"SoFi Technologies, Inc.",63,Financial Services,15.5232
+PORT-1005,NVDA,NVIDIA Corporation,14,Technology,155.198
+PORT-1005,GOOG,Alphabet Inc.,150,Technology,404.0715
+PORT-1005,CVS,CVS Health Corporation,27,Healthcare,76.4181
+PORT-1005,SOFI,"SoFi Technologies, Inc.",106,Financial Services,15.5232
+PORT-1005,GOOG,Alphabet Inc.,35,Technology,300.1674
+PORT-1005,VOO,Vanguard S&P 500 ETF,116,Index Funds / ETFs,758.956
+PORT-1005,INTC,Intel Corporation,125,Technology,114.4638
+PORT-1005,NVDA,NVIDIA Corporation,20,Technology,189.214
+PORT-1005,NVDA,NVIDIA Corporation,21,Technology,187.088
+PORT-1005,BA,The Boeing Company,58,Industrials,181.683
+PORT-1005,WMT,Walmart Inc.,7,Consumer Defensive,90.0904
+PORT-1005,XOM,Exxon Mobil Corporation,23,Energy,162.69
+PORT-1005,AAPL,Apple Inc.,131,Technology,261.114
+PORT-1005,CVS,CVS Health Corporation,41,Healthcare,92.9907
+PORT-1005,TSLA,"Tesla, Inc.",149,Consumer Cyclical,343.4808
+PORT-1005,PLTR,Palantir Technologies Inc.,50,Technology,133.8351
+PORT-1005,KO,The Coca-Cola Company,5,Consumer Defensive,66.9284
+PORT-1005,GE,General Electric Company,122,Industrials,291.8332
+PORT-1005,MA,Mastercard Incorporated,135,Financial Services,480.1888
+PORT-1005,AAPL,Apple Inc.,121,Technology,267.331
+PORT-1005,QQQ,Invesco QQQ Trust,104,Index Funds / ETFs,627.327
+PORT-1005,UNH,UnitedHealth Group Incorporated,39,Healthcare,368.6496
+PORT-1005,WMT,Walmart Inc.,9,Consumer Defensive,101.9444
+PORT-1005,VOO,Vanguard S&P 500 ETF,30,Index Funds / ETFs,614.0644
+PORT-1005,BA,The Boeing Company,15,Industrials,217.571
+PORT-1005,GE,General Electric Company,2,Industrials,329.8984
+PORT-1005,CVS,CVS Health Corporation,4,Healthcare,75.4974
+PORT-1005,VOO,Vanguard S&P 500 ETF,148,Index Funds / ETFs,703.7592
+PORT-1005,INTC,Intel Corporation,69,Technology,124.2054
+PORT-1005,MSFT,Microsoft Corporation,132,Technology,359.0229
+PORT-1005,GOOG,Alphabet Inc.,133,Technology,423.313
+PORT-1005,WMT,Walmart Inc.,82,Consumer Defensive,93.6466
+PORT-1005,XOM,Exxon Mobil Corporation,8,Energy,147.9
+PORT-1005,XOM,Exxon Mobil Corporation,35,Energy,122.757
+PORT-1005,BA,The Boeing Company,83,Industrials,237.758
+PORT-1005,MSFT,Microsoft Corporation,57,Technology,342.5161
+PORT-1005,BA,The Boeing Company,48,Industrials,219.814
+PORT-1005,WMT,Walmart Inc.,60,Consumer Defensive,109.0568
+PORT-1005,MA,Mastercard Incorporated,80,Financial Services,351.4784
+PORT-1005,AMZN,"Amazon.com, Inc.",16,Consumer Cyclical,222.917
+PORT-1005,CVS,CVS Health Corporation,39,Healthcare,76.4181
+PORT-1005,MA,Mastercard Incorporated,87,Financial Services,445.536
+PORT-1005,MSFT,Microsoft Corporation,22,Technology,433.3035
+PORT-1005,MA,Mastercard Incorporated,15,Financial Services,529.6928
+PORT-1005,QQQ,Invesco QQQ Trust,138,Index Funds / ETFs,663.7995
+PORT-1005,INTC,Intel Corporation,113,Technology,115.6815
+PORT-1005,XOM,Exxon Mobil Corporation,30,Energy,152.337
+PORT-1005,KO,The Coca-Cola Company,81,Consumer Defensive,85.701
+PORT-1005,VOO,Vanguard S&P 500 ETF,78,Index Funds / ETFs,538.1688
+PORT-1005,ABBV,AbbVie Inc.,96,Healthcare,187.398
+PORT-1005,PYPL,"PayPal Holdings, Inc.",78,Financial Services,35.8832
+PORT-1005,ABBV,AbbVie Inc.,27,Healthcare,178.782
+PORT-1005,AAPL,Apple Inc.,13,Technology,220.7035
+PORT-1005,UNH,UnitedHealth Group Incorporated,119,Healthcare,387.8501
+PORT-1005,UNH,UnitedHealth Group Incorporated,70,Healthcare,380.1699
+PORT-1005,GE,General Electric Company,90,Industrials,241.0796
+PORT-1005,GE,General Electric Company,53,Industrials,250.5959
+PORT-1005,MA,Mastercard Incorporated,8,Financial Services,539.5936
+PORT-1005,PG,The Procter & Gamble Company,12,Consumer Defensive,159.2892
+PORT-1005,WMT,Walmart Inc.,64,Consumer Defensive,112.613
+PORT-1005,QQQ,Invesco QQQ Trust,38,Index Funds / ETFs,576.2655
+PORT-1005,PG,The Procter & Gamble Company,13,Consumer Defensive,116.5171
+PORT-1005,VOO,Vanguard S&P 500 ETF,118,Index Funds / ETFs,696.8596
+PORT-1005,AAPL,Apple Inc.,76,Technology,258.0055
+PORT-1005,VOO,Vanguard S&P 500 ETF,90,Index Funds / ETFs,758.956
+PORT-1005,MA,Mastercard Incorporated,53,Financial Services,420.784
+PORT-1005,QQQ,Invesco QQQ Trust,83,Index Funds / ETFs,736.7445
+PORT-1005,TSLA,"Tesla, Inc.",118,Consumer Cyclical,334.6736
+PORT-1005,GOOG,Alphabet Inc.,143,Technology,277.0776
+PORT-1005,SOFI,"SoFi Technologies, Inc.",107,Financial Services,12.7743
+PORT-1005,GE,General Electric Company,147,Industrials,310.8658
+PORT-1005,QQQ,Invesco QQQ Trust,22,Index Funds / ETFs,663.7995
+PORT-1005,SOFI,"SoFi Technologies, Inc.",116,Financial Services,11.9658
+PORT-1005,INTC,Intel Corporation,88,Technology,114.4638
+PORT-1005,KO,The Coca-Cola Company,86,Consumer Defensive,66.1122
+PORT-1005,WMT,Walmart Inc.,127,Consumer Defensive,84.1634
+PORT-1005,KO,The Coca-Cola Company,120,Consumer Defensive,71.8256
+PORT-1005,AMZN,"Amazon.com, Inc.",125,Consumer Cyclical,244.665
+PORT-1005,MA,Mastercard Incorporated,42,Financial Services,544.544
+PORT-1005,PYPL,"PayPal Holdings, Inc.",29,Financial Services,32.3824
+PORT-1005,WMT,Walmart Inc.,109,Consumer Defensive,122.0962
+PORT-1005,TSLA,"Tesla, Inc.",129,Consumer Cyclical,312.6556
+PORT-1005,AAPL,Apple Inc.,88,Technology,242.463
+PORT-1005,PLTR,Palantir Technologies Inc.,56,Technology,109.9833
+PORT-1005,TSLA,"Tesla, Inc.",142,Consumer Cyclical,449.1672
+PORT-1005,GE,General Electric Company,140,Industrials,314.0379
+PORT-1005,SOFI,"SoFi Technologies, Inc.",135,Financial Services,16.9785
+PORT-1005,PYPL,"PayPal Holdings, Inc.",28,Financial Services,33.2576
+PORT-1005,PYPL,"PayPal Holdings, Inc.",45,Financial Services,47.2608
+PORT-1005,NVDA,NVIDIA Corporation,110,Technology,159.45
+PORT-1005,MSFT,Microsoft Corporation,131,Technology,301.2491
+PORT-1005,PG,The Procter & Gamble Company,64,Consumer Defensive,134.2159
+PORT-1005,PYPL,"PayPal Holdings, Inc.",132,Financial Services,37.196
+PORT-1005,JPM,JPMorgan Chase & Co.,36,Financial Services,302.2728
+PORT-1005,AAPL,Apple Inc.,101,Technology,282.8735
+PORT-1005,PG,The Procter & Gamble Company,55,Consumer Defensive,150.4398
+PORT-1005,UNH,UnitedHealth Group Incorporated,79,Healthcare,387.8501
+PORT-1005,AMZN,"Amazon.com, Inc.",61,Consumer Cyclical,277.287
+PORT-1005,SOFI,"SoFi Technologies, Inc.",103,Financial Services,12.7743
+PORT-1005,MA,Mastercard Incorporated,11,Financial Services,400.9824
+PORT-1005,WMT,Walmart Inc.,13,Consumer Defensive,100.759
+PORT-1005,TSLA,"Tesla, Inc.",85,Consumer Cyclical,427.1492
+PORT-1005,AMZN,"Amazon.com, Inc.",121,Consumer Cyclical,198.4505
+PORT-1005,JPM,JPMorgan Chase & Co.,100,Financial Services,308.2584
+PORT-1005,VOO,Vanguard S&P 500 ETF,54,Index Funds / ETFs,655.462
+PORT-1005,PYPL,"PayPal Holdings, Inc.",112,Financial Services,43.3224
+PORT-1005,PG,The Procter & Gamble Company,150,Consumer Defensive,113.5673
+PORT-1005,ABBV,AbbVie Inc.,26,Healthcare,161.55
+PORT-1005,MSFT,Microsoft Corporation,51,Technology,433.3035
+PORT-1005,PG,The Procter & Gamble Company,13,Consumer Defensive,131.2661
+PORT-1005,INTC,Intel Corporation,69,Technology,119.3346
+PORT-1005,TSLA,"Tesla, Inc.",38,Consumer Cyclical,444.7636
+PORT-1005,BA,The Boeing Company,25,Industrials,186.169
+PORT-1005,AMZN,"Amazon.com, Inc.",58,Consumer Cyclical,266.413
+PORT-1005,KO,The Coca-Cola Company,35,Consumer Defensive,65.296
+PORT-1005,XOM,Exxon Mobil Corporation,79,Energy,147.9
+PORT-1005,BA,The Boeing Company,129,Industrials,192.898
+PORT-1005,BA,The Boeing Company,100,Industrials,226.543
+PORT-1005,NVDA,NVIDIA Corporation,139,Technology,157.324
+PORT-1005,CVS,CVS Health Corporation,51,Healthcare,78.2595
+PORT-1005,UNH,UnitedHealth Group Incorporated,49,Healthcare,407.0506
+PORT-1006,ABBV,AbbVie Inc.,38,Healthcare,176.628
+PORT-1006,SOFI,"SoFi Technologies, Inc.",150,Financial Services,17.1402
+PORT-1006,XOM,Exxon Mobil Corporation,38,Energy,106.488
+PORT-1006,VOO,Vanguard S&P 500 ETF,114,Index Funds / ETFs,655.462
+PORT-1006,WMT,Walmart Inc.,148,Consumer Defensive,85.3488
+PORT-1006,JPM,JPMorgan Chase & Co.,90,Financial Services,290.3016
+PORT-1006,PYPL,"PayPal Holdings, Inc.",130,Financial Services,48.136
+PORT-1006,JPM,JPMorgan Chase & Co.,7,Financial Services,242.4168
+PORT-1006,QQQ,Invesco QQQ Trust,147,Index Funds / ETFs,663.7995
+PORT-1006,GOOG,Alphabet Inc.,44,Technology,311.7123
+PORT-1006,UNH,UnitedHealth Group Incorporated,111,Healthcare,326.4085
+PORT-1006,PLTR,Palantir Technologies Inc.,98,Technology,120.5841
+PORT-1006,CVS,CVS Health Corporation,36,Healthcare,86.5458
+PORT-1006,QQQ,Invesco QQQ Trust,95,Index Funds / ETFs,554.382
+PORT-1006,ABBV,AbbVie Inc.,123,Healthcare,204.63
+PORT-1006,AMZN,"Amazon.com, Inc.",40,Consumer Cyclical,255.539
+PORT-1006,MSFT,Microsoft Corporation,86,Technology,309.5025
+PORT-1006,AMZN,"Amazon.com, Inc.",12,Consumer Cyclical,193.0135
+PORT-1006,JPM,JPMorgan Chase & Co.,87,Financial Services,209.496
+PORT-1006,PLTR,Palantir Technologies Inc.,138,Technology,123.2343
+PORT-1006,CVS,CVS Health Corporation,52,Healthcare,78.2595
+PORT-1006,JPM,JPMorgan Chase & Co.,136,Financial Services,272.3448
+PORT-1006,AMZN,"Amazon.com, Inc.",23,Consumer Cyclical,231.0725
+PORT-1006,ABBV,AbbVie Inc.,124,Healthcare,228.324
+PORT-1006,PG,The Procter & Gamble Company,81,Consumer Defensive,162.239
+PORT-1006,TSLA,"Tesla, Inc.",143,Consumer Cyclical,457.9744
+PORT-1006,MA,Mastercard Incorporated,121,Financial Services,415.8336
+PORT-1006,NVDA,NVIDIA Corporation,19,Technology,214.726
+PORT-1006,PLTR,Palantir Technologies Inc.,134,Technology,98.0574
+PORT-1006,SOFI,"SoFi Technologies, Inc.",139,Financial Services,17.1402
+PORT-1006,BA,The Boeing Company,145,Industrials,217.571
+PORT-1006,TSLA,"Tesla, Inc.",91,Consumer Cyclical,330.27
+PORT-1006,CVS,CVS Health Corporation,114,Healthcare,90.2286
+PORT-1006,QQQ,Invesco QQQ Trust,38,Index Funds / ETFs,765.9225
+PORT-1006,MA,Mastercard Incorporated,27,Financial Services,410.8832
+PORT-1006,WMT,Walmart Inc.,70,Consumer Defensive,100.759
+PORT-1006,BA,The Boeing Company,4,Industrials,228.786
+PORT-1006,KO,The Coca-Cola Company,6,Consumer Defensive,75.9066
+PORT-1006,NVDA,NVIDIA Corporation,69,Technology,178.584
+PORT-1006,MSFT,Microsoft Corporation,39,Technology,425.0501
+PORT-1006,NVDA,NVIDIA Corporation,131,Technology,229.608
+PORT-1006,MSFT,Microsoft Corporation,145,Technology,288.869
+PORT-1006,UNH,UnitedHealth Group Incorporated,96,Healthcare,349.4491
+PORT-1006,PYPL,"PayPal Holdings, Inc.",88,Financial Services,45.5104
+PORT-1006,QQQ,Invesco QQQ Trust,46,Index Funds / ETFs,751.3335
+PORT-1006,AMZN,"Amazon.com, Inc.",85,Consumer Cyclical,217.48
+PORT-1006,GE,General Electric Company,15,Industrials,333.0705
+PORT-1006,UNH,UnitedHealth Group Incorporated,42,Healthcare,322.5684
+PORT-1006,QQQ,Invesco QQQ Trust,4,Index Funds / ETFs,736.7445
+PORT-1006,ABBV,AbbVie Inc.,80,Healthcare,155.088
+PORT-1006,PYPL,"PayPal Holdings, Inc.",12,Financial Services,39.384
+PORT-1006,UNH,UnitedHealth Group Incorporated,134,Healthcare,272.6471
+PORT-1006,TSLA,"Tesla, Inc.",132,Consumer Cyclical,466.7816
+PORT-1006,MSFT,Microsoft Corporation,131,Technology,305.3758
+PORT-1006,QQQ,Invesco QQQ Trust,58,Index Funds / ETFs,722.1555
+PORT-1006,XOM,Exxon Mobil Corporation,69,Energy,139.026
+PORT-1006,PG,The Procter & Gamble Company,81,Consumer Defensive,129.7912
+PORT-1006,PG,The Procter & Gamble Company,4,Consumer Defensive,153.3896
+PORT-1006,SOFI,"SoFi Technologies, Inc.",73,Financial Services,13.7445
+PORT-1006,UNH,UnitedHealth Group Incorporated,113,Healthcare,303.3679
+PORT-1006,UNH,UnitedHealth Group Incorporated,36,Healthcare,303.3679
+PORT-1006,PLTR,Palantir Technologies Inc.,94,Technology,133.8351
+PORT-1006,PG,The Procter & Gamble Company,5,Consumer Defensive,115.0422
+PORT-1006,SOFI,"SoFi Technologies, Inc.",19,Financial Services,14.8764
+PORT-1006,CVS,CVS Health Corporation,77,Healthcare,94.8321
+PORT-1006,AMZN,"Amazon.com, Inc.",54,Consumer Cyclical,244.665
+PORT-1006,PLTR,Palantir Technologies Inc.,12,Technology,99.3825
+PORT-1006,NVDA,NVIDIA Corporation,17,Technology,227.482
+PORT-1006,GE,General Electric Company,68,Industrials,329.8984
+PORT-1006,WMT,Walmart Inc.,45,Consumer Defensive,103.1298
+PORT-1006,AMZN,"Amazon.com, Inc.",80,Consumer Cyclical,290.8795
+PORT-1006,XOM,Exxon Mobil Corporation,135,Energy,130.152
+PORT-1006,NVDA,NVIDIA Corporation,141,Technology,155.198
+PORT-1006,GE,General Electric Company,35,Industrials,336.2426
+PORT-1006,CVS,CVS Health Corporation,57,Healthcare,86.5458
+PORT-1006,AAPL,Apple Inc.,36,Technology,292.199
+PORT-1006,VOO,Vanguard S&P 500 ETF,4,Index Funds / ETFs,689.96
+PORT-1006,PG,The Procter & Gamble Company,87,Consumer Defensive,131.2661
+PORT-1006,XOM,Exxon Mobil Corporation,93,Energy,137.547
+PORT-1006,GOOG,Alphabet Inc.,66,Technology,269.381
+PORT-1006,JPM,JPMorgan Chase & Co.,40,Financial Services,278.3304
+PORT-1006,VOO,Vanguard S&P 500 ETF,38,Index Funds / ETFs,558.8676
+PORT-1006,INTC,Intel Corporation,113,Technology,94.9806
+PORT-1006,QQQ,Invesco QQQ Trust,6,Index Funds / ETFs,656.505
+PORT-1006,ABBV,AbbVie Inc.,141,Healthcare,185.244
+PORT-1006,AAPL,Apple Inc.,104,Technology,261.114
+PORT-1006,CVS,CVS Health Corporation,125,Healthcare,84.7044
+PORT-1006,VOO,Vanguard S&P 500 ETF,108,Index Funds / ETFs,703.7592
+PORT-1006,WMT,Walmart Inc.,37,Consumer Defensive,130.394
+PORT-1006,NVDA,NVIDIA Corporation,89,Technology,153.072
+PORT-1006,PLTR,Palantir Technologies Inc.,41,Technology,116.6088
+PORT-1006,INTC,Intel Corporation,86,Technology,104.7222
+PORT-1006,MA,Mastercard Incorporated,65,Financial Services,524.7424
+PORT-1006,WMT,Walmart Inc.,44,Consumer Defensive,106.686
+PORT-1006,VOO,Vanguard S&P 500 ETF,73,Index Funds / ETFs,551.968
+PORT-1006,KO,The Coca-Cola Company,36,Consumer Defensive,75.9066
+PORT-1006,BA,The Boeing Company,19,Industrials,246.73
+PORT-1006,ABBV,AbbVie Inc.,96,Healthcare,185.244
+PORT-1006,PG,The Procter & Gamble Company,149,Consumer Defensive,110.6175
+PORT-1006,PG,The Procter & Gamble Company,111,Consumer Defensive,156.3394
+PORT-1006,GOOG,Alphabet Inc.,27,Technology,350.1953
+PORT-1006,KO,The Coca-Cola Company,21,Consumer Defensive,85.701
+PORT-1006,ABBV,AbbVie Inc.,102,Healthcare,174.474
+PORT-1006,CVS,CVS Health Corporation,2,Healthcare,78.2595
+PORT-1006,SOFI,"SoFi Technologies, Inc.",42,Financial Services,12.936
+PORT-1006,MA,Mastercard Incorporated,113,Financial Services,475.2384
+PORT-1006,WMT,Walmart Inc.,39,Consumer Defensive,113.7984
+PORT-1006,TSLA,"Tesla, Inc.",24,Consumer Cyclical,365.4988
+PORT-1006,BA,The Boeing Company,145,Industrials,242.244
+PORT-1006,BA,The Boeing Company,137,Industrials,165.982
+PORT-1006,INTC,Intel Corporation,148,Technology,98.6337
+PORT-1006,GOOG,Alphabet Inc.,147,Technology,373.2851
+PORT-1006,QQQ,Invesco QQQ Trust,51,Index Funds / ETFs,612.738
+PORT-1006,VOO,Vanguard S&P 500 ETF,23,Index Funds / ETFs,738.2572
+PORT-1006,PYPL,"PayPal Holdings, Inc.",60,Financial Services,45.0728
+PORT-1006,ABBV,AbbVie Inc.,144,Healthcare,228.324
+PORT-1006,UNH,UnitedHealth Group Incorporated,36,Healthcare,368.6496
+PORT-1006,KO,The Coca-Cola Company,1,Consumer Defensive,71.0094
+PORT-1006,INTC,Intel Corporation,30,Technology,90.1098
+PORT-1006,MA,Mastercard Incorporated,16,Financial Services,475.2384
+PORT-1006,QQQ,Invesco QQQ Trust,58,Index Funds / ETFs,517.9095
+PORT-1006,MA,Mastercard Incorporated,134,Financial Services,460.3872
+PORT-1006,CVS,CVS Health Corporation,72,Healthcare,70.8939
+PORT-1006,INTC,Intel Corporation,91,Technology,120.5523
+PORT-1006,ABBV,AbbVie Inc.,76,Healthcare,232.632
+PORT-1006,PG,The Procter & Gamble Company,64,Consumer Defensive,140.1155
+PORT-1006,KO,The Coca-Cola Company,106,Consumer Defensive,59.5826
+PORT-1006,PG,The Procter & Gamble Company,24,Consumer Defensive,138.6406
+PORT-1006,CVS,CVS Health Corporation,130,Healthcare,93.9114
+PORT-1006,KO,The Coca-Cola Company,55,Consumer Defensive,68.5608
+PORT-1006,PYPL,"PayPal Holdings, Inc.",86,Financial Services,41.1344
+PORT-1006,PYPL,"PayPal Holdings, Inc.",141,Financial Services,43.3224
+PORT-1007,KO,The Coca-Cola Company,79,Consumer Defensive,75.0904
+PORT-1007,VOO,Vanguard S&P 500 ETF,105,Index Funds / ETFs,551.968
+PORT-1007,XOM,Exxon Mobil Corporation,97,Energy,146.421
+PORT-1007,GOOG,Alphabet Inc.,111,Technology,280.9259
+PORT-1007,PLTR,Palantir Technologies Inc.,67,Technology,136.4853
+PORT-1007,XOM,Exxon Mobil Corporation,125,Energy,162.69
+PORT-1007,WMT,Walmart Inc.,103,Consumer Defensive,116.1692
+PORT-1007,BA,The Boeing Company,115,Industrials,224.3
+PORT-1007,WMT,Walmart Inc.,140,Consumer Defensive,91.2758
+PORT-1007,ABBV,AbbVie Inc.,131,Healthcare,200.322
+PORT-1007,SOFI,"SoFi Technologies, Inc.",42,Financial Services,11.319
+PORT-1007,PYPL,"PayPal Holdings, Inc.",12,Financial Services,32.82
+PORT-1007,SOFI,"SoFi Technologies, Inc.",111,Financial Services,16.0083
+PORT-1007,AAPL,Apple Inc.,98,Technology,335.718
+PORT-1007,NVDA,NVIDIA Corporation,2,Technology,176.458
+PORT-1007,UNH,UnitedHealth Group Incorporated,21,Healthcare,349.4491
+PORT-1007,PG,The Procter & Gamble Company,20,Consumer Defensive,162.239
+PORT-1007,ABBV,AbbVie Inc.,52,Healthcare,187.398
+PORT-1007,GOOG,Alphabet Inc.,25,Technology,350.1953
+PORT-1007,AAPL,Apple Inc.,112,Technology,307.7415
+PORT-1007,XOM,Exxon Mobil Corporation,126,Energy,139.026
+PORT-1007,KO,The Coca-Cola Company,61,Consumer Defensive,84.0686
+PORT-1007,INTC,Intel Corporation,4,Technology,112.0284
+PORT-1007,MSFT,Microsoft Corporation,66,Technology,429.1768
+PORT-1007,INTC,Intel Corporation,56,Technology,127.8585
+PORT-1007,SOFI,"SoFi Technologies, Inc.",121,Financial Services,16.9785
+PORT-1007,MSFT,Microsoft Corporation,60,Technology,326.0093
+PORT-1007,INTC,Intel Corporation,128,Technology,99.8514
+PORT-1007,GOOG,Alphabet Inc.,72,Technology,288.6225
+PORT-1007,BA,The Boeing Company,6,Industrials,159.253
+PORT-1007,UNH,UnitedHealth Group Incorporated,137,Healthcare,276.4872
+PORT-1007,UNH,UnitedHealth Group Incorporated,41,Healthcare,337.9288
+PORT-1007,XOM,Exxon Mobil Corporation,106,Energy,149.379
+PORT-1007,WMT,Walmart Inc.,23,Consumer Defensive,123.2816
+PORT-1007,ABBV,AbbVie Inc.,134,Healthcare,211.092
+PORT-1007,BA,The Boeing Company,89,Industrials,186.169
+PORT-1007,INTC,Intel Corporation,41,Technology,99.8514
+PORT-1007,PYPL,"PayPal Holdings, Inc.",103,Financial Services,30.632
+PORT-1007,BA,The Boeing Company,8,Industrials,215.328
+PORT-1007,TSLA,"Tesla, Inc.",98,Consumer Cyclical,396.324
+PORT-1007,VOO,Vanguard S&P 500 ETF,62,Index Funds / ETFs,607.1648
+PORT-1007,KO,The Coca-Cola Company,136,Consumer Defensive,64.4798
+PORT-1007,MSFT,Microsoft Corporation,21,Technology,321.8826
+PORT-1007,VOO,Vanguard S&P 500 ETF,109,Index Funds / ETFs,662.3616
+PORT-1007,GOOG,Alphabet Inc.,104,Technology,338.6504
+PORT-1007,VOO,Vanguard S&P 500 ETF,21,Index Funds / ETFs,531.2692
+PORT-1007,VOO,Vanguard S&P 500 ETF,46,Index Funds / ETFs,503.6708
+PORT-1007,JPM,JPMorgan Chase & Co.,72,Financial Services,266.3592
+PORT-1007,VOO,Vanguard S&P 500 ETF,99,Index Funds / ETFs,655.462
+PORT-1007,AMZN,"Amazon.com, Inc.",127,Consumer Cyclical,296.3165
+PORT-1007,GOOG,Alphabet Inc.,143,Technology,384.83
+PORT-1007,GOOG,Alphabet Inc.,22,Technology,307.864
+PORT-1007,QQQ,Invesco QQQ Trust,17,Index Funds / ETFs,765.9225
+PORT-1007,NVDA,NVIDIA Corporation,113,Technology,182.836
+PORT-1007,INTC,Intel Corporation,2,Technology,85.239
+PORT-1007,XOM,Exxon Mobil Corporation,122,Energy,149.379
+PORT-1007,WMT,Walmart Inc.,14,Consumer Defensive,86.5342
+PORT-1007,MSFT,Microsoft Corporation,93,Technology,346.6428
+PORT-1007,KO,The Coca-Cola Company,98,Consumer Defensive,85.701
+PORT-1007,XOM,Exxon Mobil Corporation,19,Energy,133.11
+PORT-1007,VOO,Vanguard S&P 500 ETF,63,Index Funds / ETFs,551.968
+PORT-1007,NVDA,NVIDIA Corporation,48,Technology,199.844
+PORT-1007,JPM,JPMorgan Chase & Co.,84,Financial Services,272.3448
+PORT-1007,AAPL,Apple Inc.,111,Technology,310.85
+PORT-1007,MA,Mastercard Incorporated,29,Financial Services,475.2384
+PORT-1007,AAPL,Apple Inc.,91,Technology,289.0905
+PORT-1007,PG,The Procter & Gamble Company,102,Consumer Defensive,119.4669
+PORT-1007,QQQ,Invesco QQQ Trust,109,Index Funds / ETFs,700.272
+PORT-1007,PYPL,"PayPal Holdings, Inc.",135,Financial Services,42.4472
+PORT-1007,MA,Mastercard Incorporated,89,Financial Services,435.6352
+PORT-1007,INTC,Intel Corporation,15,Technology,124.2054
+PORT-1007,VOO,Vanguard S&P 500 ETF,26,Index Funds / ETFs,676.1608
+PORT-1007,KO,The Coca-Cola Company,31,Consumer Defensive,77.539
+PORT-1007,ABBV,AbbVie Inc.,96,Healthcare,226.17
+PORT-1007,XOM,Exxon Mobil Corporation,82,Energy,118.32
+PORT-1007,MSFT,Microsoft Corporation,9,Technology,288.869
+PORT-1007,PLTR,Palantir Technologies Inc.,92,Technology,136.4853
+PORT-1007,GE,General Electric Company,126,Industrials,234.7354
+PORT-1007,AMZN,"Amazon.com, Inc.",134,Consumer Cyclical,217.48
+PORT-1007,JPM,JPMorgan Chase & Co.,42,Financial Services,311.2512
+PORT-1007,UNH,UnitedHealth Group Incorporated,37,Healthcare,318.7283
+PORT-1007,INTC,Intel Corporation,41,Technology,96.1983
+PORT-1007,PLTR,Palantir Technologies Inc.,20,Technology,107.3331
+PORT-1007,MSFT,Microsoft Corporation,138,Technology,326.0093
+PORT-1007,MA,Mastercard Incorporated,40,Financial Services,485.1392
+PORT-1007,PYPL,"PayPal Holdings, Inc.",109,Financial Services,42.0096
+PORT-1007,KO,The Coca-Cola Company,131,Consumer Defensive,69.377
+PORT-1007,WMT,Walmart Inc.,95,Consumer Defensive,117.3546
+PORT-1007,MA,Mastercard Incorporated,49,Financial Services,534.6432
+PORT-1007,BA,The Boeing Company,136,Industrials,199.627
+PORT-1007,VOO,Vanguard S&P 500 ETF,83,Index Funds / ETFs,683.0604
+PORT-1007,PYPL,"PayPal Holdings, Inc.",48,Financial Services,45.948
+PORT-1007,XOM,Exxon Mobil Corporation,16,Energy,116.841
+PORT-1007,SOFI,"SoFi Technologies, Inc.",90,Financial Services,16.4934
+PORT-1007,JPM,JPMorgan Chase & Co.,143,Financial Services,269.352
+PORT-1007,INTC,Intel Corporation,99,Technology,102.2868
+PORT-1007,ABBV,AbbVie Inc.,62,Healthcare,187.398
+PORT-1007,PYPL,"PayPal Holdings, Inc.",82,Financial Services,43.3224
+PORT-1007,JPM,JPMorgan Chase & Co.,16,Financial Services,251.3952
+PORT-1007,XOM,Exxon Mobil Corporation,142,Energy,150.858
+PORT-1007,AAPL,Apple Inc.,118,Technology,217.595
+PORT-1007,INTC,Intel Corporation,20,Technology,113.2461
+PORT-1007,AMZN,"Amazon.com, Inc.",36,Consumer Cyclical,285.4425
+PORT-1007,SOFI,"SoFi Technologies, Inc.",31,Financial Services,11.4807
+PORT-1007,SOFI,"SoFi Technologies, Inc.",99,Financial Services,16.17
+PORT-1007,PLTR,Palantir Technologies Inc.,97,Technology,99.3825
+PORT-1007,ABBV,AbbVie Inc.,131,Healthcare,224.016
+PORT-1007,QQQ,Invesco QQQ Trust,74,Index Funds / ETFs,765.9225
+PORT-1007,JPM,JPMorgan Chase & Co.,53,Financial Services,281.3232
+PORT-1007,XOM,Exxon Mobil Corporation,63,Energy,139.026
+PORT-1007,TSLA,"Tesla, Inc.",34,Consumer Cyclical,396.324
+PORT-1007,PLTR,Palantir Technologies Inc.,91,Technology,124.5594
+PORT-1007,PG,The Procter & Gamble Company,26,Consumer Defensive,112.0924
+PORT-1007,SOFI,"SoFi Technologies, Inc.",18,Financial Services,12.1275
+PORT-1007,CVS,CVS Health Corporation,11,Healthcare,93.9114
+PORT-1007,GOOG,Alphabet Inc.,83,Technology,423.313
+PORT-1007,SOFI,"SoFi Technologies, Inc.",22,Financial Services,16.9785
+PORT-1007,WMT,Walmart Inc.,47,Consumer Defensive,126.8378
+PORT-1007,ABBV,AbbVie Inc.,30,Healthcare,187.398
+PORT-1007,GE,General Electric Company,8,Industrials,310.8658
+PORT-1007,QQQ,Invesco QQQ Trust,10,Index Funds / ETFs,678.3885
+PORT-1007,INTC,Intel Corporation,62,Technology,109.593
+PORT-1007,GE,General Electric Company,146,Industrials,317.21
+PORT-1007,GOOG,Alphabet Inc.,140,Technology,330.9538
+PORT-1007,MA,Mastercard Incorporated,21,Financial Services,440.5856
+PORT-1007,VOO,Vanguard S&P 500 ETF,132,Index Funds / ETFs,503.6708
+PORT-1007,BA,The Boeing Company,111,Industrials,244.487
+PORT-1007,PLTR,Palantir Technologies Inc.,99,Technology,115.2837
+PORT-1007,TSLA,"Tesla, Inc.",70,Consumer Cyclical,361.0952
+PORT-1007,QQQ,Invesco QQQ Trust,10,Index Funds / ETFs,554.382
+PORT-1007,JPM,JPMorgan Chase & Co.,22,Financial Services,263.3664
+PORT-1007,NVDA,NVIDIA Corporation,52,Technology,227.482
+PORT-1007,SOFI,"SoFi Technologies, Inc.",116,Financial Services,12.6126
+PORT-1007,AMZN,"Amazon.com, Inc.",102,Consumer Cyclical,285.4425
+PORT-1007,GOOG,Alphabet Inc.,27,Technology,307.864
+PORT-1007,MA,Mastercard Incorporated,104,Financial Services,529.6928
+PORT-1007,PLTR,Palantir Technologies Inc.,119,Technology,113.9586
+PORT-1008,SOFI,"SoFi Technologies, Inc.",71,Financial Services,13.5828
+PORT-1008,GE,General Electric Company,112,Industrials,234.7354
+PORT-1008,AMZN,"Amazon.com, Inc.",99,Consumer Cyclical,236.5095
+PORT-1008,WMT,Walmart Inc.,110,Consumer Defensive,120.9108
+PORT-1008,PG,The Procter & Gamble Company,60,Consumer Defensive,110.6175
+PORT-1008,TSLA,"Tesla, Inc.",104,Consumer Cyclical,471.1852
+PORT-1008,GE,General Electric Company,67,Industrials,256.9401
+PORT-1008,QQQ,Invesco QQQ Trust,104,Index Funds / ETFs,729.45
+PORT-1008,AAPL,Apple Inc.,128,Technology,326.3925
+PORT-1008,TSLA,"Tesla, Inc.",15,Consumer Cyclical,374.306
+PORT-1008,VOO,Vanguard S&P 500 ETF,51,Index Funds / ETFs,745.1568
+PORT-1008,JPM,JPMorgan Chase & Co.,104,Financial Services,317.2368
+PORT-1008,AAPL,Apple Inc.,149,Technology,301.5245
+PORT-1008,AMZN,"Amazon.com, Inc.",98,Consumer Cyclical,222.917
+PORT-1008,QQQ,Invesco QQQ Trust,7,Index Funds / ETFs,773.217
+PORT-1008,MA,Mastercard Incorporated,11,Financial Services,425.7344
+PORT-1008,MSFT,Microsoft Corporation,36,Technology,309.5025
+PORT-1008,QQQ,Invesco QQQ Trust,139,Index Funds / ETFs,700.272
+PORT-1008,WMT,Walmart Inc.,17,Consumer Defensive,114.9838
+PORT-1008,JPM,JPMorgan Chase & Co.,23,Financial Services,302.2728
+PORT-1008,PG,The Procter & Gamble Company,140,Consumer Defensive,126.8414
+PORT-1008,MA,Mastercard Incorporated,29,Financial Services,499.9904
+PORT-1008,PYPL,"PayPal Holdings, Inc.",85,Financial Services,39.384
+PORT-1008,AAPL,Apple Inc.,138,Technology,329.501
+PORT-1008,VOO,Vanguard S&P 500 ETF,4,Index Funds / ETFs,641.6628
+PORT-1008,GOOG,Alphabet Inc.,68,Technology,338.6504
+PORT-1008,AMZN,"Amazon.com, Inc.",100,Consumer Cyclical,236.5095
+PORT-1008,SOFI,"SoFi Technologies, Inc.",124,Financial Services,12.2892
+PORT-1008,KO,The Coca-Cola Company,60,Consumer Defensive,72.6418
+PORT-1008,QQQ,Invesco QQQ Trust,97,Index Funds / ETFs,700.272
+PORT-1008,QQQ,Invesco QQQ Trust,14,Index Funds / ETFs,532.4985
+PORT-1008,CVS,CVS Health Corporation,63,Healthcare,80.1009
+PORT-1008,SOFI,"SoFi Technologies, Inc.",122,Financial Services,14.7147
+PORT-1008,CVS,CVS Health Corporation,134,Healthcare,77.3388
+PORT-1008,PG,The Procter & Gamble Company,149,Consumer Defensive,107.6677
+PORT-1008,PYPL,"PayPal Holdings, Inc.",78,Financial Services,34.5704
+PORT-1008,TSLA,"Tesla, Inc.",102,Consumer Cyclical,330.27
+PORT-1008,BA,The Boeing Company,47,Industrials,170.468
+PORT-1008,SOFI,"SoFi Technologies, Inc.",137,Financial Services,14.3913
+PORT-1008,MSFT,Microsoft Corporation,4,Technology,354.8962
+PORT-1008,KO,The Coca-Cola Company,89,Consumer Defensive,72.6418
+PORT-1008,BA,The Boeing Company,121,Industrials,208.599
+PORT-1008,INTC,Intel Corporation,54,Technology,118.1169
+PORT-1008,CVS,CVS Health Corporation,48,Healthcare,95.7528
+PORT-1008,SOFI,"SoFi Technologies, Inc.",148,Financial Services,13.4211
+PORT-1008,ABBV,AbbVie Inc.,8,Healthcare,202.476
+PORT-1008,GOOG,Alphabet Inc.,136,Technology,392.5266
+PORT-1008,PLTR,Palantir Technologies Inc.,33,Technology,116.6088
+PORT-1008,UNH,UnitedHealth Group Incorporated,19,Healthcare,341.7689
+PORT-1008,UNH,UnitedHealth Group Incorporated,98,Healthcare,272.6471
+PORT-1008,ABBV,AbbVie Inc.,143,Healthcare,213.246
+PORT-1008,NVDA,NVIDIA Corporation,100,Technology,167.954
+PORT-1008,GOOG,Alphabet Inc.,146,Technology,357.8919
+PORT-1008,GE,General Electric Company,79,Industrials,222.047
+PORT-1008,PG,The Procter & Gamble Company,101,Consumer Defensive,126.8414
+PORT-1008,PLTR,Palantir Technologies Inc.,25,Technology,141.7857
+PORT-1008,INTC,Intel Corporation,71,Technology,94.9806
+PORT-1008,MA,Mastercard Incorporated,36,Financial Services,544.544
+PORT-1008,ABBV,AbbVie Inc.,64,Healthcare,208.938
+PORT-1008,INTC,Intel Corporation,145,Technology,130.2939
+PORT-1008,MA,Mastercard Incorporated,150,Financial Services,435.6352
+PORT-1008,GE,General Electric Company,121,Industrials,285.489
+PORT-1008,JPM,JPMorgan Chase & Co.,140,Financial Services,233.4384
+PORT-1008,JPM,JPMorgan Chase & Co.,69,Financial Services,302.2728
+PORT-1008,PG,The Procter & Gamble Company,101,Consumer Defensive,146.0151
+PORT-1008,AMZN,"Amazon.com, Inc.",45,Consumer Cyclical,274.5685
+PORT-1008,PG,The Procter & Gamble Company,89,Consumer Defensive,146.0151
+PORT-1008,XOM,Exxon Mobil Corporation,84,Energy,147.9
+PORT-1008,ABBV,AbbVie Inc.,117,Healthcare,211.092
+PORT-1008,UNH,UnitedHealth Group Incorporated,48,Healthcare,276.4872
+PORT-1008,AAPL,Apple Inc.,89,Technology,326.3925
+PORT-1008,TSLA,"Tesla, Inc.",113,Consumer Cyclical,308.252
+PORT-1008,MA,Mastercard Incorporated,6,Financial Services,356.4288
+PORT-1008,INTC,Intel Corporation,114,Technology,90.1098
+PORT-1008,PYPL,"PayPal Holdings, Inc.",83,Financial Services,32.3824
+PORT-1008,INTC,Intel Corporation,64,Technology,120.5523
+PORT-1008,ABBV,AbbVie Inc.,39,Healthcare,215.4
+PORT-1008,KO,The Coca-Cola Company,49,Consumer Defensive,64.4798
+PORT-1008,KO,The Coca-Cola Company,125,Consumer Defensive,89.782
+PORT-1008,MA,Mastercard Incorporated,102,Financial Services,410.8832
+PORT-1008,JPM,JPMorgan Chase & Co.,33,Financial Services,221.4672
+PORT-1008,QQQ,Invesco QQQ Trust,3,Index Funds / ETFs,649.2105
+PORT-1008,CVS,CVS Health Corporation,73,Healthcare,92.9907
+PORT-1008,TSLA,"Tesla, Inc.",113,Consumer Cyclical,466.7816
+PORT-1008,VOO,Vanguard S&P 500 ETF,33,Index Funds / ETFs,648.5624
+PORT-1008,QQQ,Invesco QQQ Trust,81,Index Funds / ETFs,525.204
+PORT-1008,VOO,Vanguard S&P 500 ETF,83,Index Funds / ETFs,696.8596
+PORT-1008,VOO,Vanguard S&P 500 ETF,110,Index Funds / ETFs,565.7672
+PORT-1008,PYPL,"PayPal Holdings, Inc.",26,Financial Services,38.9464
+PORT-1008,GOOG,Alphabet Inc.,2,Technology,346.347
+PORT-1008,AMZN,"Amazon.com, Inc.",115,Consumer Cyclical,217.48
+PORT-1008,MSFT,Microsoft Corporation,43,Technology,375.5297
+PORT-1008,WMT,Walmart Inc.,32,Consumer Defensive,111.4276
+PORT-1008,XOM,Exxon Mobil Corporation,149,Energy,124.236
+PORT-1008,SOFI,"SoFi Technologies, Inc.",47,Financial Services,11.319
+PORT-1008,TSLA,"Tesla, Inc.",97,Consumer Cyclical,435.9564
+PORT-1008,CVS,CVS Health Corporation,78,Healthcare,79.1802
+PORT-1008,AMZN,"Amazon.com, Inc.",134,Consumer Cyclical,263.6945
+PORT-1008,AMZN,"Amazon.com, Inc.",38,Consumer Cyclical,277.287
+PORT-1008,SOFI,"SoFi Technologies, Inc.",31,Financial Services,12.2892
+PORT-1008,MSFT,Microsoft Corporation,81,Technology,321.8826
+PORT-1008,QQQ,Invesco QQQ Trust,6,Index Funds / ETFs,517.9095
+PORT-1008,CVS,CVS Health Corporation,131,Healthcare,75.4974
+PORT-1008,BA,The Boeing Company,130,Industrials,213.085
+PORT-1008,GE,General Electric Company,106,Industrials,320.3821
+PORT-1008,GOOG,Alphabet Inc.,57,Technology,334.8021
+PORT-1008,TSLA,"Tesla, Inc.",128,Consumer Cyclical,325.8664
+PORT-1008,INTC,Intel Corporation,29,Technology,121.77
+PORT-1008,KO,The Coca-Cola Company,60,Consumer Defensive,78.3552
+PORT-1008,JPM,JPMorgan Chase & Co.,63,Financial Services,218.4744
+PORT-1008,NVDA,NVIDIA Corporation,14,Technology,221.104
+PORT-1008,SOFI,"SoFi Technologies, Inc.",130,Financial Services,12.1275
+PORT-1008,GE,General Electric Company,116,Industrials,307.6937
+PORT-1008,TSLA,"Tesla, Inc.",150,Consumer Cyclical,325.8664
+PORT-1008,PLTR,Palantir Technologies Inc.,85,Technology,132.51
+PORT-1008,PG,The Procter & Gamble Company,50,Consumer Defensive,109.1426
+PORT-1008,MA,Mastercard Incorporated,120,Financial Services,480.1888
+PORT-1008,CVS,CVS Health Corporation,121,Healthcare,79.1802
+PORT-1008,MSFT,Microsoft Corporation,118,Technology,338.3894
+PORT-1008,XOM,Exxon Mobil Corporation,6,Energy,119.799
+PORT-1008,SOFI,"SoFi Technologies, Inc.",110,Financial Services,13.5828
+PORT-1008,NVDA,NVIDIA Corporation,8,Technology,176.458
+PORT-1008,GOOG,Alphabet Inc.,8,Technology,311.7123
+PORT-1008,AAPL,Apple Inc.,21,Technology,285.982
+PORT-1008,PYPL,"PayPal Holdings, Inc.",2,Financial Services,34.5704
+PORT-1008,AAPL,Apple Inc.,4,Technology,313.9585
+PORT-1008,GE,General Electric Company,9,Industrials,266.4564
+PORT-1008,PG,The Procter & Gamble Company,25,Consumer Defensive,115.0422
+PORT-1008,UNH,UnitedHealth Group Incorporated,36,Healthcare,337.9288
+PORT-1008,KO,The Coca-Cola Company,1,Consumer Defensive,77.539
+PORT-1008,KO,The Coca-Cola Company,81,Consumer Defensive,62.0312
+PORT-1008,GOOG,Alphabet Inc.,13,Technology,288.6225
+PORT-1008,GOOG,Alphabet Inc.,83,Technology,404.0715
+PORT-1008,QQQ,Invesco QQQ Trust,86,Index Funds / ETFs,583.56
+PORT-1008,VOO,Vanguard S&P 500 ETF,32,Index Funds / ETFs,586.466
+PORT-1008,CVS,CVS Health Corporation,50,Healthcare,91.1493
+PORT-1008,AAPL,Apple Inc.,57,Technology,267.331
+PORT-1008,VOO,Vanguard S&P 500 ETF,43,Index Funds / ETFs,503.6708
+PORT-1008,NVDA,NVIDIA Corporation,69,Technology,163.702
+PORT-1008,PLTR,Palantir Technologies Inc.,71,Technology,102.0327
+PORT-1009,WMT,Walmart Inc.,95,Consumer Defensive,111.4276
+PORT-1009,GE,General Electric Company,125,Industrials,263.2843
+PORT-1009,BA,The Boeing Company,85,Industrials,237.758
+PORT-1009,MSFT,Microsoft Corporation,67,Technology,433.3035
+PORT-1009,PG,The Procter & Gamble Company,13,Consumer Defensive,117.992
+PORT-1009,INTC,Intel Corporation,110,Technology,91.3275
+PORT-1009,AAPL,Apple Inc.,18,Technology,267.331
+PORT-1009,TSLA,"Tesla, Inc.",30,Consumer Cyclical,435.9564
+PORT-1009,BA,The Boeing Company,48,Industrials,242.244
+PORT-1009,CVS,CVS Health Corporation,86,Healthcare,71.8146
+PORT-1009,VOO,Vanguard S&P 500 ETF,146,Index Funds / ETFs,710.6588
+PORT-1009,UNH,UnitedHealth Group Incorporated,149,Healthcare,422.411
+PORT-1009,PYPL,"PayPal Holdings, Inc.",102,Financial Services,39.384
+PORT-1009,WMT,Walmart Inc.,135,Consumer Defensive,91.2758
+PORT-1009,GOOG,Alphabet Inc.,110,Technology,288.6225
+PORT-1009,AMZN,"Amazon.com, Inc.",146,Consumer Cyclical,236.5095
+PORT-1009,SOFI,"SoFi Technologies, Inc.",34,Financial Services,15.5232
+PORT-1009,BA,The Boeing Company,144,Industrials,165.982
+PORT-1009,CVS,CVS Health Corporation,30,Healthcare,97.5942
+PORT-1009,VOO,Vanguard S&P 500 ETF,141,Index Funds / ETFs,683.0604
+PORT-1009,NVDA,NVIDIA Corporation,17,Technology,231.734
+PORT-1009,ABBV,AbbVie Inc.,89,Healthcare,178.782
+PORT-1009,SOFI,"SoFi Technologies, Inc.",82,Financial Services,16.0083
+PORT-1009,ABBV,AbbVie Inc.,60,Healthcare,208.938
+PORT-1009,JPM,JPMorgan Chase & Co.,11,Financial Services,290.3016
+PORT-1009,ABBV,AbbVie Inc.,30,Healthcare,208.938
+PORT-1009,TSLA,"Tesla, Inc.",81,Consumer Cyclical,466.7816
+PORT-1009,MSFT,Microsoft Corporation,6,Technology,375.5297
+PORT-1009,TSLA,"Tesla, Inc.",38,Consumer Cyclical,321.4628
+PORT-1009,KO,The Coca-Cola Company,20,Consumer Defensive,75.9066
+PORT-1009,UNH,UnitedHealth Group Incorporated,80,Healthcare,360.9694
+PORT-1009,AAPL,Apple Inc.,121,Technology,230.029
+PORT-1009,UNH,UnitedHealth Group Incorporated,136,Healthcare,395.5303
+PORT-1009,UNH,UnitedHealth Group Incorporated,38,Healthcare,368.6496
+PORT-1009,AAPL,Apple Inc.,55,Technology,323.284
+PORT-1009,INTC,Intel Corporation,74,Technology,125.4231
+PORT-1009,BA,The Boeing Company,119,Industrials,210.842
+PORT-1009,CVS,CVS Health Corporation,43,Healthcare,66.2904
+PORT-1009,MA,Mastercard Incorporated,115,Financial Services,400.9824
+PORT-1009,PLTR,Palantir Technologies Inc.,91,Technology,141.7857
+PORT-1009,SOFI,"SoFi Technologies, Inc.",111,Financial Services,17.787
+PORT-1009,AAPL,Apple Inc.,86,Technology,292.199
+PORT-1009,UNH,UnitedHealth Group Incorporated,96,Healthcare,284.1674
+PORT-1009,CVS,CVS Health Corporation,100,Healthcare,65.3697
+PORT-1009,CVS,CVS Health Corporation,25,Healthcare,100.3563
+PORT-1009,TSLA,"Tesla, Inc.",30,Consumer Cyclical,413.9384
+PORT-1009,VOO,Vanguard S&P 500 ETF,54,Index Funds / ETFs,551.968
+PORT-1009,CVS,CVS Health Corporation,150,Healthcare,83.7837
+PORT-1009,UNH,UnitedHealth Group Incorporated,15,Healthcare,299.5278
+PORT-1009,NVDA,NVIDIA Corporation,28,Technology,148.82
+PORT-1009,KO,The Coca-Cola Company,122,Consumer Defensive,79.1714
+PORT-1009,AAPL,Apple Inc.,30,Technology,326.3925
+PORT-1009,AAPL,Apple Inc.,141,Technology,323.284
+PORT-1009,QQQ,Invesco QQQ Trust,42,Index Funds / ETFs,547.0875
+PORT-1009,PYPL,"PayPal Holdings, Inc.",69,Financial Services,42.4472
+PORT-1009,CVS,CVS Health Corporation,17,Healthcare,75.4974
+PORT-1009,KO,The Coca-Cola Company,116,Consumer Defensive,68.5608
+PORT-1009,SOFI,"SoFi Technologies, Inc.",121,Financial Services,15.0381
+PORT-1009,AMZN,"Amazon.com, Inc.",91,Consumer Cyclical,299.035
+PORT-1009,BA,The Boeing Company,102,Industrials,213.085
+PORT-1009,AMZN,"Amazon.com, Inc.",95,Consumer Cyclical,225.6355
+PORT-1009,ABBV,AbbVie Inc.,81,Healthcare,174.474
+PORT-1009,TSLA,"Tesla, Inc.",77,Consumer Cyclical,391.9204
+PORT-1009,AMZN,"Amazon.com, Inc.",32,Consumer Cyclical,288.161
+PORT-1009,INTC,Intel Corporation,82,Technology,125.4231
+PORT-1009,PG,The Procter & Gamble Company,88,Consumer Defensive,162.239
+PORT-1009,PLTR,Palantir Technologies Inc.,14,Technology,121.9092
+PORT-1009,INTC,Intel Corporation,18,Technology,114.4638
+PORT-1009,PYPL,"PayPal Holdings, Inc.",123,Financial Services,30.632
+PORT-1009,PYPL,"PayPal Holdings, Inc.",138,Financial Services,43.3224
+PORT-1009,WMT,Walmart Inc.,49,Consumer Defensive,106.686
+PORT-1009,PG,The Procter & Gamble Company,84,Consumer Defensive,153.3896
+PORT-1009,CVS,CVS Health Corporation,30,Healthcare,69.0525
+PORT-1009,PG,The Procter & Gamble Company,133,Consumer Defensive,143.0653
+PORT-1009,XOM,Exxon Mobil Corporation,28,Energy,131.631
+PORT-1009,AMZN,"Amazon.com, Inc.",53,Consumer Cyclical,271.85
+PORT-1009,PLTR,Palantir Technologies Inc.,126,Technology,143.1108
+PORT-1009,QQQ,Invesco QQQ Trust,50,Index Funds / ETFs,539.793
+PORT-1009,ABBV,AbbVie Inc.,6,Healthcare,187.398
+PORT-1009,TSLA,"Tesla, Inc.",52,Consumer Cyclical,475.5888
+PORT-1009,TSLA,"Tesla, Inc.",117,Consumer Cyclical,365.4988
+PORT-1009,VOO,Vanguard S&P 500 ETF,32,Index Funds / ETFs,669.2612
+PORT-1009,PG,The Procter & Gamble Company,45,Consumer Defensive,115.0422
+PORT-1009,INTC,Intel Corporation,70,Technology,129.0762
+PORT-1009,AMZN,"Amazon.com, Inc.",26,Consumer Cyclical,290.8795
+PORT-1009,JPM,JPMorgan Chase & Co.,122,Financial Services,257.3808
+PORT-1009,UNH,UnitedHealth Group Incorporated,56,Healthcare,360.9694
+PORT-1009,XOM,Exxon Mobil Corporation,16,Energy,110.925
+PORT-1009,PG,The Procter & Gamble Company,30,Consumer Defensive,103.243
+PORT-1009,GOOG,Alphabet Inc.,74,Technology,292.4708
+PORT-1009,WMT,Walmart Inc.,5,Consumer Defensive,88.905
+PORT-1009,UNH,UnitedHealth Group Incorporated,70,Healthcare,376.3298
+PORT-1009,MSFT,Microsoft Corporation,78,Technology,288.869
+PORT-1009,PLTR,Palantir Technologies Inc.,67,Technology,141.7857
+PORT-1009,SOFI,"SoFi Technologies, Inc.",51,Financial Services,14.8764
+PORT-1009,AMZN,"Amazon.com, Inc.",60,Consumer Cyclical,220.1985
+PORT-1009,MSFT,Microsoft Corporation,126,Technology,396.1632
+PORT-1009,GOOG,Alphabet Inc.,27,Technology,304.0157
+PORT-1009,MA,Mastercard Incorporated,150,Financial Services,450.4864
+PORT-1009,XOM,Exxon Mobil Corporation,1,Energy,155.295
+PORT-1009,SOFI,"SoFi Technologies, Inc.",35,Financial Services,17.6253
+PORT-1009,UNH,UnitedHealth Group Incorporated,37,Healthcare,391.6902
+PORT-1009,XOM,Exxon Mobil Corporation,58,Energy,109.446
+PORT-1009,PYPL,"PayPal Holdings, Inc.",120,Financial Services,31.0696
+PORT-1009,INTC,Intel Corporation,113,Technology,99.8514
+PORT-1009,JPM,JPMorgan Chase & Co.,61,Financial Services,257.3808
+PORT-1009,NVDA,NVIDIA Corporation,105,Technology,231.734
+PORT-1009,GOOG,Alphabet Inc.,22,Technology,269.381
+PORT-1009,GE,General Electric Company,77,Industrials,222.047
+PORT-1009,BA,The Boeing Company,17,Industrials,172.711
+PORT-1009,QQQ,Invesco QQQ Trust,52,Index Funds / ETFs,780.5115
+PORT-1009,TSLA,"Tesla, Inc.",59,Consumer Cyclical,330.27
+PORT-1009,GOOG,Alphabet Inc.,22,Technology,304.0157
+PORT-1009,GE,General Electric Company,132,Industrials,323.5542
+PORT-1009,KO,The Coca-Cola Company,97,Consumer Defensive,77.539
+PORT-1009,CVS,CVS Health Corporation,43,Healthcare,93.9114
+PORT-1009,INTC,Intel Corporation,125,Technology,93.7629
+PORT-1009,NVDA,NVIDIA Corporation,103,Technology,201.97
+PORT-1009,UNH,UnitedHealth Group Incorporated,103,Healthcare,322.5684
+PORT-1009,ABBV,AbbVie Inc.,33,Healthcare,206.784
+PORT-1009,CVS,CVS Health Corporation,36,Healthcare,80.1009
+PORT-1009,GOOG,Alphabet Inc.,4,Technology,354.0436
+PORT-1009,BA,The Boeing Company,89,Industrials,228.786
+PORT-1009,SOFI,"SoFi Technologies, Inc.",132,Financial Services,17.3019
+PORT-1009,GOOG,Alphabet Inc.,57,Technology,304.0157
+PORT-1009,ABBV,AbbVie Inc.,12,Healthcare,217.554
+PORT-1009,SOFI,"SoFi Technologies, Inc.",121,Financial Services,15.5232
+PORT-1009,VOO,Vanguard S&P 500 ETF,95,Index Funds / ETFs,627.8636
+PORT-1009,VOO,Vanguard S&P 500 ETF,37,Index Funds / ETFs,489.8716
+PORT-1009,NVDA,NVIDIA Corporation,114,Technology,197.718
+PORT-1009,KO,The Coca-Cola Company,150,Consumer Defensive,69.377
+PORT-1009,INTC,Intel Corporation,83,Technology,131.5116
+PORT-1009,VOO,Vanguard S&P 500 ETF,46,Index Funds / ETFs,648.5624
+PORT-1009,JPM,JPMorgan Chase & Co.,49,Financial Services,269.352
+PORT-1009,MA,Mastercard Incorporated,148,Financial Services,425.7344
+PORT-1009,VOO,Vanguard S&P 500 ETF,132,Index Funds / ETFs,627.8636
+PORT-1009,NVDA,NVIDIA Corporation,62,Technology,231.734
+PORT-1009,CVS,CVS Health Corporation,122,Healthcare,69.9732
+PORT-1009,JPM,JPMorgan Chase & Co.,3,Financial Services,266.3592
+PORT-1009,UNH,UnitedHealth Group Incorporated,104,Healthcare,295.6877
+PORT-1009,MSFT,Microsoft Corporation,87,Technology,338.3894
+PORT-1009,AMZN,"Amazon.com, Inc.",33,Consumer Cyclical,274.5685
+PORT-1009,GE,General Electric Company,89,Industrials,279.1448
+PORT-1009,AAPL,Apple Inc.,2,Technology,242.463
+PORT-1009,TSLA,"Tesla, Inc.",103,Consumer Cyclical,361.0952
+PORT-1009,GOOG,Alphabet Inc.,9,Technology,319.4089
+PORT-1009,AMZN,"Amazon.com, Inc.",143,Consumer Cyclical,220.1985
+PORT-1010,AMZN,"Amazon.com, Inc.",76,Consumer Cyclical,217.48
+PORT-1010,KO,The Coca-Cola Company,90,Consumer Defensive,71.8256
+PORT-1010,BA,The Boeing Company,123,Industrials,177.197
+PORT-1010,BA,The Boeing Company,5,Industrials,210.842
+PORT-1010,PLTR,Palantir Technologies Inc.,38,Technology,99.3825
+PORT-1010,NVDA,NVIDIA Corporation,42,Technology,174.332
+PORT-1010,PG,The Procter & Gamble Company,36,Consumer Defensive,157.8143
+PORT-1010,GE,General Electric Company,141,Industrials,320.3821
+PORT-1010,XOM,Exxon Mobil Corporation,63,Energy,156.774
+PORT-1010,NVDA,NVIDIA Corporation,110,Technology,199.844
+PORT-1010,ABBV,AbbVie Inc.,68,Healthcare,226.17
+PORT-1010,BA,The Boeing Company,41,Industrials,161.496
+PORT-1010,GE,General Electric Company,80,Industrials,339.4147
+PORT-1010,MA,Mastercard Incorporated,101,Financial Services,366.3296
+PORT-1010,UNH,UnitedHealth Group Incorporated,88,Healthcare,372.4897
+PORT-1010,BA,The Boeing Company,107,Industrials,237.758
+PORT-1010,KO,The Coca-Cola Company,48,Consumer Defensive,57.9502
+PORT-1010,TSLA,"Tesla, Inc.",105,Consumer Cyclical,444.7636
+PORT-1010,TSLA,"Tesla, Inc.",48,Consumer Cyclical,422.7456
+PORT-1010,BA,The Boeing Company,112,Industrials,224.3
+PORT-1010,AMZN,"Amazon.com, Inc.",52,Consumer Cyclical,269.1315
+PORT-1010,AAPL,Apple Inc.,121,Technology,282.8735
+PORT-1010,NVDA,NVIDIA Corporation,122,Technology,148.82
+PORT-1010,UNH,UnitedHealth Group Incorporated,68,Healthcare,360.9694
+PORT-1010,GOOG,Alphabet Inc.,65,Technology,338.6504
+PORT-1010,KO,The Coca-Cola Company,121,Consumer Defensive,66.9284
+PORT-1010,GE,General Electric Company,142,Industrials,326.7263
+PORT-1010,INTC,Intel Corporation,49,Technology,126.6408
+PORT-1010,KO,The Coca-Cola Company,126,Consumer Defensive,57.9502
+PORT-1010,PLTR,Palantir Technologies Inc.,23,Technology,111.3084
+PORT-1010,AAPL,Apple Inc.,64,Technology,217.595
+PORT-1010,JPM,JPMorgan Chase & Co.,140,Financial Services,254.388
+PORT-1010,AMZN,"Amazon.com, Inc.",63,Consumer Cyclical,225.6355
+PORT-1010,QQQ,Invesco QQQ Trust,19,Index Funds / ETFs,765.9225
+PORT-1010,SOFI,"SoFi Technologies, Inc.",15,Financial Services,12.2892
+PORT-1010,UNH,UnitedHealth Group Incorporated,49,Healthcare,288.0075
+PORT-1010,PYPL,"PayPal Holdings, Inc.",19,Financial Services,31.5072
+PORT-1010,PYPL,"PayPal Holdings, Inc.",137,Financial Services,31.0696
+PORT-1010,GE,General Electric Company,63,Industrials,342.5868
+PORT-1010,GE,General Electric Company,9,Industrials,282.3169
+PORT-1010,VOO,Vanguard S&P 500 ETF,30,Index Funds / ETFs,676.1608
+PORT-1010,BA,The Boeing Company,28,Industrials,210.842
+PORT-1010,GE,General Electric Company,12,Industrials,295.0053
+PORT-1010,PYPL,"PayPal Holdings, Inc.",10,Financial Services,38.0712
+PORT-1010,GE,General Electric Company,79,Industrials,250.5959
+PORT-1010,NVDA,NVIDIA Corporation,77,Technology,233.86
+PORT-1010,AAPL,Apple Inc.,18,Technology,264.2225
+PORT-1010,MA,Mastercard Incorporated,16,Financial Services,529.6928
+PORT-1010,NVDA,NVIDIA Corporation,148,Technology,182.836
+PORT-1010,QQQ,Invesco QQQ Trust,107,Index Funds / ETFs,525.204
+PORT-1010,SOFI,"SoFi Technologies, Inc.",80,Financial Services,15.6849
+PORT-1010,GE,General Electric Company,127,Industrials,272.8006
+PORT-1010,TSLA,"Tesla, Inc.",8,Consumer Cyclical,317.0592
+PORT-1010,BA,The Boeing Company,53,Industrials,206.356
+PORT-1010,ABBV,AbbVie Inc.,111,Healthcare,215.4
+PORT-1010,BA,The Boeing Company,100,Industrials,161.496
+PORT-1010,XOM,Exxon Mobil Corporation,108,Energy,110.925
+PORT-1010,GOOG,Alphabet Inc.,98,Technology,342.4987
+PORT-1010,AAPL,Apple Inc.,119,Technology,258.0055
+PORT-1010,AAPL,Apple Inc.,42,Technology,251.7885
+PORT-1010,AAPL,Apple Inc.,40,Technology,338.8265
+PORT-1010,QQQ,Invesco QQQ Trust,82,Index Funds / ETFs,641.916
+PORT-1010,VOO,Vanguard S&P 500 ETF,149,Index Funds / ETFs,655.462
+PORT-1010,TSLA,"Tesla, Inc.",91,Consumer Cyclical,317.0592
+PORT-1010,BA,The Boeing Company,22,Industrials,233.272
+PORT-1010,PLTR,Palantir Technologies Inc.,66,Technology,109.9833
+PORT-1010,TSLA,"Tesla, Inc.",74,Consumer Cyclical,356.6916
+PORT-1010,MSFT,Microsoft Corporation,31,Technology,292.9957
+PORT-1010,VOO,Vanguard S&P 500 ETF,46,Index Funds / ETFs,752.0564
+PORT-1010,XOM,Exxon Mobil Corporation,71,Energy,130.152
+PORT-1010,WMT,Walmart Inc.,144,Consumer Defensive,106.686
+PORT-1010,PG,The Procter & Gamble Company,44,Consumer Defensive,151.9147
+PORT-1010,KO,The Coca-Cola Company,16,Consumer Defensive,68.5608
+PORT-1010,MSFT,Microsoft Corporation,94,Technology,371.403
+PORT-1010,QQQ,Invesco QQQ Trust,94,Index Funds / ETFs,590.8545
+PORT-1010,UNH,UnitedHealth Group Incorporated,90,Healthcare,357.1293
+PORT-1010,JPM,JPMorgan Chase & Co.,54,Financial Services,221.4672
+PORT-1010,GOOG,Alphabet Inc.,66,Technology,300.1674
+PORT-1010,UNH,UnitedHealth Group Incorporated,72,Healthcare,357.1293
+PORT-1010,JPM,JPMorgan Chase & Co.,86,Financial Services,323.2224
+PORT-1010,GE,General Electric Company,123,Industrials,342.5868
+PORT-1010,GOOG,Alphabet Inc.,53,Technology,323.2572
+PORT-1010,WMT,Walmart Inc.,135,Consumer Defensive,99.5736
+PORT-1010,XOM,Exxon Mobil Corporation,48,Energy,158.253
+PORT-1010,JPM,JPMorgan Chase & Co.,139,Financial Services,257.3808
+PORT-1010,BA,The Boeing Company,14,Industrials,235.515
+PORT-1010,PG,The Procter & Gamble Company,88,Consumer Defensive,146.0151
+PORT-1010,GE,General Electric Company,88,Industrials,228.3912
+PORT-1010,GE,General Electric Company,88,Industrials,291.8332
+PORT-1010,INTC,Intel Corporation,124,Technology,112.0284
+PORT-1010,CVS,CVS Health Corporation,80,Healthcare,76.4181
+PORT-1010,GE,General Electric Company,95,Industrials,304.5216
+PORT-1010,GOOG,Alphabet Inc.,44,Technology,354.0436
+PORT-1010,GOOG,Alphabet Inc.,82,Technology,384.83
+PORT-1010,SOFI,"SoFi Technologies, Inc.",62,Financial Services,16.9785
+PORT-1010,MA,Mastercard Incorporated,136,Financial Services,445.536
+PORT-1010,UNH,UnitedHealth Group Incorporated,46,Healthcare,349.4491
+PORT-1010,WMT,Walmart Inc.,37,Consumer Defensive,100.759
+PORT-1010,INTC,Intel Corporation,70,Technology,104.7222
+PORT-1010,XOM,Exxon Mobil Corporation,52,Energy,125.715
+PORT-1010,MSFT,Microsoft Corporation,92,Technology,334.2627
+PORT-1010,KO,The Coca-Cola Company,98,Consumer Defensive,57.9502
+PORT-1010,BA,The Boeing Company,129,Industrials,213.085
+PORT-1010,MSFT,Microsoft Corporation,27,Technology,433.3035
+PORT-1010,GOOG,Alphabet Inc.,41,Technology,304.0157
+PORT-1010,NVDA,NVIDIA Corporation,93,Technology,155.198
+PORT-1010,PG,The Procter & Gamble Company,54,Consumer Defensive,135.6908
+PORT-1010,BA,The Boeing Company,21,Industrials,161.496
+PORT-1010,GE,General Electric Company,104,Industrials,323.5542
+PORT-1010,GE,General Electric Company,23,Industrials,301.3495
+PORT-1010,PG,The Procter & Gamble Company,22,Consumer Defensive,123.8916
+PORT-1010,NVDA,NVIDIA Corporation,132,Technology,191.34
+PORT-1010,BA,The Boeing Company,37,Industrials,244.487
+PORT-1010,AAPL,Apple Inc.,134,Technology,261.114
+PORT-1010,VOO,Vanguard S&P 500 ETF,109,Index Funds / ETFs,551.968
+PORT-1010,KO,The Coca-Cola Company,67,Consumer Defensive,66.9284
+PORT-1010,KO,The Coca-Cola Company,44,Consumer Defensive,62.0312
+PORT-1010,JPM,JPMorgan Chase & Co.,18,Financial Services,239.424
+PORT-1010,CVS,CVS Health Corporation,118,Healthcare,80.1009
+PORT-1010,JPM,JPMorgan Chase & Co.,62,Financial Services,257.3808
+PORT-1010,PG,The Procter & Gamble Company,12,Consumer Defensive,156.3394
+PORT-1010,SOFI,"SoFi Technologies, Inc.",78,Financial Services,16.0083
+PORT-1010,BA,The Boeing Company,68,Industrials,199.627
+PORT-1010,VOO,Vanguard S&P 500 ETF,74,Index Funds / ETFs,538.1688
+PORT-1010,UNH,UnitedHealth Group Incorporated,124,Healthcare,376.3298
+PORT-1010,VOO,Vanguard S&P 500 ETF,25,Index Funds / ETFs,710.6588
+PORT-1010,AAPL,Apple Inc.,134,Technology,254.897
+PORT-1011,QQQ,Invesco QQQ Trust,120,Index Funds / ETFs,685.683
+PORT-1011,GOOG,Alphabet Inc.,131,Technology,423.313
+PORT-1011,MA,Mastercard Incorporated,107,Financial Services,356.4288
+PORT-1011,KO,The Coca-Cola Company,119,Consumer Defensive,60.3988
+PORT-1011,TSLA,"Tesla, Inc.",128,Consumer Cyclical,466.7816
+PORT-1011,MSFT,Microsoft Corporation,135,Technology,429.1768
+PORT-1011,CVS,CVS Health Corporation,129,Healthcare,71.8146
+PORT-1011,KO,The Coca-Cola Company,25,Consumer Defensive,75.0904
+PORT-1011,AMZN,"Amazon.com, Inc.",31,Consumer Cyclical,222.917
+PORT-1011,PG,The Procter & Gamble Company,46,Consumer Defensive,112.0924
+PORT-1011,XOM,Exxon Mobil Corporation,108,Energy,110.925
+PORT-1011,NVDA,NVIDIA Corporation,71,Technology,167.954
+PORT-1011,AMZN,"Amazon.com, Inc.",111,Consumer Cyclical,231.0725
+PORT-1011,AAPL,Apple Inc.,7,Technology,338.8265
+PORT-1011,QQQ,Invesco QQQ Trust,149,Index Funds / ETFs,598.149
+PORT-1011,UNH,UnitedHealth Group Incorporated,127,Healthcare,307.208
+PORT-1011,MSFT,Microsoft Corporation,80,Technology,321.8826
+PORT-1011,PLTR,Palantir Technologies Inc.,139,Technology,109.9833
+PORT-1011,WMT,Walmart Inc.,98,Consumer Defensive,110.2422
+PORT-1011,GE,General Electric Company,3,Industrials,336.2426
+PORT-1011,VOO,Vanguard S&P 500 ETF,30,Index Funds / ETFs,524.3696
+PORT-1011,PLTR,Palantir Technologies Inc.,145,Technology,102.0327
+PORT-1011,GE,General Electric Company,102,Industrials,345.7589
+PORT-1011,XOM,Exxon Mobil Corporation,9,Energy,149.379
+PORT-1011,TSLA,"Tesla, Inc.",8,Consumer Cyclical,343.4808
+PORT-1011,TSLA,"Tesla, Inc.",25,Consumer Cyclical,418.342
+PORT-1011,AMZN,"Amazon.com, Inc.",100,Consumer Cyclical,231.0725
+PORT-1011,PYPL,"PayPal Holdings, Inc.",10,Financial Services,38.9464
+PORT-1011,BA,The Boeing Company,66,Industrials,197.384
+PORT-1011,BA,The Boeing Company,84,Industrials,242.244
+PORT-1011,AAPL,Apple Inc.,145,Technology,329.501
+PORT-1011,MA,Mastercard Incorporated,90,Financial Services,470.288
+PORT-1011,XOM,Exxon Mobil Corporation,5,Energy,128.673
+PORT-1011,AAPL,Apple Inc.,24,Technology,258.0055
+PORT-1011,AAPL,Apple Inc.,149,Technology,273.548
+PORT-1011,SOFI,"SoFi Technologies, Inc.",131,Financial Services,13.9062
+PORT-1011,KO,The Coca-Cola Company,9,Consumer Defensive,67.7446
+PORT-1011,WMT,Walmart Inc.,103,Consumer Defensive,90.0904
+PORT-1011,GE,General Electric Company,57,Industrials,237.9075
+PORT-1011,TSLA,"Tesla, Inc.",124,Consumer Cyclical,378.7096
+PORT-1011,NVDA,NVIDIA Corporation,97,Technology,195.592
+PORT-1011,WMT,Walmart Inc.,99,Consumer Defensive,96.0174
+PORT-1011,AMZN,"Amazon.com, Inc.",91,Consumer Cyclical,255.539
+PORT-1011,VOO,Vanguard S&P 500 ETF,112,Index Funds / ETFs,531.2692
+PORT-1011,MA,Mastercard Incorporated,98,Financial Services,351.4784
+PORT-1011,AMZN,"Amazon.com, Inc.",2,Consumer Cyclical,203.8875
+PORT-1011,PYPL,"PayPal Holdings, Inc.",46,Financial Services,32.82
+PORT-1011,MSFT,Microsoft Corporation,81,Technology,292.9957
+PORT-1011,GOOG,Alphabet Inc.,63,Technology,377.1334
+PORT-1011,GOOG,Alphabet Inc.,119,Technology,346.347
+PORT-1011,AMZN,"Amazon.com, Inc.",16,Consumer Cyclical,239.228
+PORT-1011,PLTR,Palantir Technologies Inc.,58,Technology,137.8104
+PORT-1011,TSLA,"Tesla, Inc.",57,Consumer Cyclical,325.8664
+PORT-1011,MSFT,Microsoft Corporation,65,Technology,346.6428
+PORT-1011,CVS,CVS Health Corporation,137,Healthcare,99.4356
+PORT-1011,MSFT,Microsoft Corporation,48,Technology,317.7559
+PORT-1011,GOOG,Alphabet Inc.,93,Technology,338.6504
+PORT-1011,QQQ,Invesco QQQ Trust,135,Index Funds / ETFs,714.861
+PORT-1011,KO,The Coca-Cola Company,56,Consumer Defensive,85.701
+PORT-1011,TSLA,"Tesla, Inc.",122,Consumer Cyclical,352.288
+PORT-1011,KO,The Coca-Cola Company,21,Consumer Defensive,67.7446
+PORT-1011,INTC,Intel Corporation,28,Technology,87.6744
+PORT-1011,CVS,CVS Health Corporation,124,Healthcare,93.9114
+PORT-1011,UNH,UnitedHealth Group Incorporated,48,Healthcare,284.1674
+PORT-1011,PG,The Procter & Gamble Company,35,Consumer Defensive,137.1657
+PORT-1011,VOO,Vanguard S&P 500 ETF,32,Index Funds / ETFs,662.3616
+PORT-1011,MSFT,Microsoft Corporation,132,Technology,445.6836
+PORT-1011,PLTR,Palantir Technologies Inc.,41,Technology,94.0821
+PORT-1011,XOM,Exxon Mobil Corporation,46,Energy,130.152
+PORT-1011,PLTR,Palantir Technologies Inc.,38,Technology,112.6335
+PORT-1011,SOFI,"SoFi Technologies, Inc.",78,Financial Services,13.2594
+PORT-1011,GE,General Electric Company,144,Industrials,291.8332
+PORT-1011,VOO,Vanguard S&P 500 ETF,41,Index Funds / ETFs,696.8596
+PORT-1011,PLTR,Palantir Technologies Inc.,112,Technology,125.8845
+PORT-1011,BA,The Boeing Company,105,Industrials,217.571
+PORT-1011,PYPL,"PayPal Holdings, Inc.",39,Financial Services,45.5104
+PORT-1011,WMT,Walmart Inc.,27,Consumer Defensive,94.832
+PORT-1011,CVS,CVS Health Corporation,101,Healthcare,94.8321
+PORT-1011,NVDA,NVIDIA Corporation,128,Technology,153.072
+PORT-1011,PYPL,"PayPal Holdings, Inc.",71,Financial Services,37.6336
+PORT-1011,INTC,Intel Corporation,88,Technology,97.416
+PORT-1011,PG,The Procter & Gamble Company,145,Consumer Defensive,126.8414
+PORT-1011,JPM,JPMorgan Chase & Co.,121,Financial Services,308.2584
+PORT-1011,VOO,Vanguard S&P 500 ETF,110,Index Funds / ETFs,551.968
+PORT-1011,SOFI,"SoFi Technologies, Inc.",40,Financial Services,14.553
+PORT-1011,CVS,CVS Health Corporation,32,Healthcare,64.449
+PORT-1011,CVS,CVS Health Corporation,67,Healthcare,96.6735
+PORT-1011,QQQ,Invesco QQQ Trust,1,Index Funds / ETFs,605.4435
+PORT-1011,MA,Mastercard Incorporated,22,Financial Services,415.8336
+PORT-1011,JPM,JPMorgan Chase & Co.,75,Financial Services,275.3376
+PORT-1011,ABBV,AbbVie Inc.,22,Healthcare,202.476
+PORT-1011,PYPL,"PayPal Holdings, Inc.",97,Financial Services,44.6352
+PORT-1011,PYPL,"PayPal Holdings, Inc.",60,Financial Services,39.384
+PORT-1011,GOOG,Alphabet Inc.,24,Technology,400.2232
+PORT-1011,XOM,Exxon Mobil Corporation,99,Energy,139.026
+PORT-1011,PG,The Procter & Gamble Company,146,Consumer Defensive,131.2661
+PORT-1011,PYPL,"PayPal Holdings, Inc.",109,Financial Services,31.9448
+PORT-1011,JPM,JPMorgan Chase & Co.,132,Financial Services,218.4744
+PORT-1011,QQQ,Invesco QQQ Trust,46,Index Funds / ETFs,568.971
+PORT-1011,MA,Mastercard Incorporated,97,Financial Services,455.4368
+PORT-1011,AAPL,Apple Inc.,52,Technology,332.6095
+PORT-1011,AAPL,Apple Inc.,96,Technology,226.9205
+PORT-1011,UNH,UnitedHealth Group Incorporated,50,Healthcare,272.6471
+PORT-1011,CVS,CVS Health Corporation,3,Healthcare,96.6735
+PORT-1011,SOFI,"SoFi Technologies, Inc.",34,Financial Services,14.2296
+PORT-1011,INTC,Intel Corporation,107,Technology,109.593
+PORT-1011,PYPL,"PayPal Holdings, Inc.",44,Financial Services,37.6336
+PORT-1011,AMZN,"Amazon.com, Inc.",135,Consumer Cyclical,241.9465
+PORT-1011,NVDA,NVIDIA Corporation,115,Technology,199.844
+PORT-1011,JPM,JPMorgan Chase & Co.,31,Financial Services,278.3304
+PORT-1011,NVDA,NVIDIA Corporation,55,Technology,161.576
+PORT-1011,VOO,Vanguard S&P 500 ETF,58,Index Funds / ETFs,565.7672
+PORT-1011,ABBV,AbbVie Inc.,28,Healthcare,155.088
+PORT-1011,MA,Mastercard Incorporated,117,Financial Services,529.6928
+PORT-1011,INTC,Intel Corporation,13,Technology,107.1576
+PORT-1011,XOM,Exxon Mobil Corporation,66,Energy,136.068
+PORT-1011,BA,The Boeing Company,148,Industrials,197.384
+PORT-1011,QQQ,Invesco QQQ Trust,116,Index Funds / ETFs,547.0875
+PORT-1011,GOOG,Alphabet Inc.,84,Technology,411.7681
+PORT-1011,JPM,JPMorgan Chase & Co.,78,Financial Services,299.28
+PORT-1011,VOO,Vanguard S&P 500 ETF,19,Index Funds / ETFs,572.6668
+PORT-1011,TSLA,"Tesla, Inc.",14,Consumer Cyclical,462.378
+PORT-1011,AMZN,"Amazon.com, Inc.",7,Consumer Cyclical,228.354
+PORT-1012,PG,The Procter & Gamble Company,81,Consumer Defensive,156.3394
+PORT-1012,GE,General Electric Company,137,Industrials,244.2517
+PORT-1012,TSLA,"Tesla, Inc.",128,Consumer Cyclical,352.288
+PORT-1012,MSFT,Microsoft Corporation,17,Technology,305.3758
+PORT-1012,MSFT,Microsoft Corporation,29,Technology,404.4166
+PORT-1012,AAPL,Apple Inc.,20,Technology,233.1375
+PORT-1012,ABBV,AbbVie Inc.,11,Healthcare,221.862
+PORT-1012,NVDA,NVIDIA Corporation,53,Technology,157.324
+PORT-1012,INTC,Intel Corporation,2,Technology,91.3275
+PORT-1012,AMZN,"Amazon.com, Inc.",72,Consumer Cyclical,285.4425
+PORT-1012,GE,General Electric Company,137,Industrials,326.7263
+PORT-1012,KO,The Coca-Cola Company,57,Consumer Defensive,71.8256
+PORT-1012,XOM,Exxon Mobil Corporation,147,Energy,143.463
+PORT-1012,SOFI,"SoFi Technologies, Inc.",94,Financial Services,17.1402
+PORT-1012,NVDA,NVIDIA Corporation,16,Technology,197.718
+PORT-1012,XOM,Exxon Mobil Corporation,79,Energy,115.362
+PORT-1012,JPM,JPMorgan Chase & Co.,76,Financial Services,233.4384
+PORT-1012,WMT,Walmart Inc.,111,Consumer Defensive,87.7196
+PORT-1012,GE,General Electric Company,66,Industrials,295.0053
+PORT-1012,PYPL,"PayPal Holdings, Inc.",21,Financial Services,40.2592
+PORT-1012,WMT,Walmart Inc.,96,Consumer Defensive,85.3488
+PORT-1012,PG,The Procter & Gamble Company,41,Consumer Defensive,128.3163
+PORT-1012,ABBV,AbbVie Inc.,83,Healthcare,170.166
+PORT-1012,PYPL,"PayPal Holdings, Inc.",85,Financial Services,32.82
+PORT-1012,ABBV,AbbVie Inc.,22,Healthcare,183.09
+PORT-1012,VOO,Vanguard S&P 500 ETF,143,Index Funds / ETFs,752.0564
+PORT-1012,UNH,UnitedHealth Group Incorporated,123,Healthcare,288.0075
+PORT-1012,ABBV,AbbVie Inc.,42,Healthcare,170.166
+PORT-1012,PG,The Procter & Gamble Company,115,Consumer Defensive,110.6175
+PORT-1012,TSLA,"Tesla, Inc.",148,Consumer Cyclical,453.5708
+PORT-1012,MA,Mastercard Incorporated,72,Financial Services,356.4288
+PORT-1012,WMT,Walmart Inc.,54,Consumer Defensive,86.5342
+PORT-1012,INTC,Intel Corporation,22,Technology,107.1576
+PORT-1012,PYPL,"PayPal Holdings, Inc.",142,Financial Services,44.1976
+PORT-1012,AMZN,"Amazon.com, Inc.",76,Consumer Cyclical,252.8205
+PORT-1012,VOO,Vanguard S&P 500 ETF,10,Index Funds / ETFs,510.5704
+PORT-1012,AMZN,"Amazon.com, Inc.",6,Consumer Cyclical,236.5095
+PORT-1012,MA,Mastercard Incorporated,100,Financial Services,460.3872
+PORT-1012,JPM,JPMorgan Chase & Co.,118,Financial Services,299.28
+PORT-1012,PLTR,Palantir Technologies Inc.,141,Technology,99.3825
+PORT-1012,MSFT,Microsoft Corporation,144,Technology,330.136
+PORT-1012,UNH,UnitedHealth Group Incorporated,26,Healthcare,299.5278
+PORT-1012,UNH,UnitedHealth Group Incorporated,140,Healthcare,314.8882
+PORT-1012,TSLA,"Tesla, Inc.",57,Consumer Cyclical,405.1312
+PORT-1012,KO,The Coca-Cola Company,60,Consumer Defensive,66.1122
+PORT-1012,CVS,CVS Health Corporation,113,Healthcare,79.1802
+PORT-1012,PYPL,"PayPal Holdings, Inc.",150,Financial Services,44.1976
+PORT-1012,BA,The Boeing Company,142,Industrials,170.468
+PORT-1012,AAPL,Apple Inc.,150,Technology,317.067
+PORT-1012,MA,Mastercard Incorporated,109,Financial Services,425.7344
+PORT-1012,TSLA,"Tesla, Inc.",117,Consumer Cyclical,343.4808
+PORT-1012,ABBV,AbbVie Inc.,71,Healthcare,219.708
+PORT-1012,WMT,Walmart Inc.,6,Consumer Defensive,97.2028
+PORT-1012,MA,Mastercard Incorporated,95,Financial Services,465.3376
+PORT-1012,NVDA,NVIDIA Corporation,56,Technology,214.726
+PORT-1012,WMT,Walmart Inc.,149,Consumer Defensive,113.7984
+PORT-1012,INTC,Intel Corporation,97,Technology,124.2054
+PORT-1012,JPM,JPMorgan Chase & Co.,4,Financial Services,257.3808
+PORT-1012,GE,General Electric Company,91,Industrials,288.6611
+PORT-1012,AMZN,"Amazon.com, Inc.",138,Consumer Cyclical,212.043
+PORT-1012,BA,The Boeing Company,118,Industrials,192.898
+PORT-1012,SOFI,"SoFi Technologies, Inc.",126,Financial Services,17.4636
+PORT-1012,GE,General Electric Company,67,Industrials,272.8006
+PORT-1012,BA,The Boeing Company,65,Industrials,190.655
+PORT-1012,QQQ,Invesco QQQ Trust,15,Index Funds / ETFs,722.1555
+PORT-1012,PLTR,Palantir Technologies Inc.,132,Technology,109.9833
+PORT-1012,BA,The Boeing Company,113,Industrials,179.44
+PORT-1012,KO,The Coca-Cola Company,100,Consumer Defensive,61.215
+PORT-1012,KO,The Coca-Cola Company,96,Consumer Defensive,67.7446
+PORT-1012,UNH,UnitedHealth Group Incorporated,144,Healthcare,295.6877
+PORT-1012,UNH,UnitedHealth Group Incorporated,132,Healthcare,399.3704
+PORT-1012,PYPL,"PayPal Holdings, Inc.",124,Financial Services,43.3224
+PORT-1012,MSFT,Microsoft Corporation,107,Technology,449.8103
+PORT-1012,PYPL,"PayPal Holdings, Inc.",59,Financial Services,44.1976
+PORT-1012,BA,The Boeing Company,85,Industrials,199.627
+PORT-1012,PYPL,"PayPal Holdings, Inc.",145,Financial Services,40.6968
+PORT-1012,AAPL,Apple Inc.,40,Technology,298.416
+PORT-1012,MSFT,Microsoft Corporation,144,Technology,305.3758
+PORT-1012,BA,The Boeing Company,108,Industrials,226.543
+PORT-1012,XOM,Exxon Mobil Corporation,108,Energy,152.337
+PORT-1012,GE,General Electric Company,134,Industrials,237.9075
+PORT-1012,PLTR,Palantir Technologies Inc.,25,Technology,117.9339
+PORT-1012,WMT,Walmart Inc.,119,Consumer Defensive,87.7196
+PORT-1012,UNH,UnitedHealth Group Incorporated,3,Healthcare,330.2486
+PORT-1012,UNH,UnitedHealth Group Incorporated,107,Healthcare,341.7689
+PORT-1012,PYPL,"PayPal Holdings, Inc.",14,Financial Services,37.196
+PORT-1012,AAPL,Apple Inc.,91,Technology,226.9205
+PORT-1012,NVDA,NVIDIA Corporation,149,Technology,178.584
+PORT-1012,NVDA,NVIDIA Corporation,145,Technology,223.23
+PORT-1012,XOM,Exxon Mobil Corporation,27,Energy,115.362
+PORT-1012,GE,General Electric Company,79,Industrials,269.6285
+PORT-1012,PYPL,"PayPal Holdings, Inc.",97,Financial Services,37.6336
+PORT-1012,BA,The Boeing Company,54,Industrials,201.87
+PORT-1012,SOFI,"SoFi Technologies, Inc.",29,Financial Services,15.1998
+PORT-1012,MSFT,Microsoft Corporation,82,Technology,313.6292
+PORT-1012,PYPL,"PayPal Holdings, Inc.",91,Financial Services,30.632
+PORT-1012,ABBV,AbbVie Inc.,1,Healthcare,159.396
+PORT-1012,AAPL,Apple Inc.,5,Technology,292.199
+PORT-1012,AMZN,"Amazon.com, Inc.",84,Consumer Cyclical,241.9465
+PORT-1012,QQQ,Invesco QQQ Trust,77,Index Funds / ETFs,598.149
+PORT-1012,BA,The Boeing Company,2,Industrials,159.253
+PORT-1012,JPM,JPMorgan Chase & Co.,47,Financial Services,287.3088
+PORT-1012,SOFI,"SoFi Technologies, Inc.",140,Financial Services,13.4211
+PORT-1012,MSFT,Microsoft Corporation,117,Technology,334.2627
+PORT-1012,PLTR,Palantir Technologies Inc.,85,Technology,143.1108
+PORT-1012,WMT,Walmart Inc.,19,Consumer Defensive,85.3488
+PORT-1012,NVDA,NVIDIA Corporation,34,Technology,167.954
+PORT-1012,AMZN,"Amazon.com, Inc.",6,Consumer Cyclical,263.6945
+PORT-1012,PYPL,"PayPal Holdings, Inc.",41,Financial Services,36.7584
+PORT-1012,AMZN,"Amazon.com, Inc.",54,Consumer Cyclical,274.5685
+PORT-1012,GOOG,Alphabet Inc.,119,Technology,346.347
+PORT-1012,MA,Mastercard Incorporated,51,Financial Services,366.3296
+PORT-1012,PLTR,Palantir Technologies Inc.,49,Technology,125.8845
+PORT-1012,BA,The Boeing Company,92,Industrials,161.496
+PORT-1012,JPM,JPMorgan Chase & Co.,100,Financial Services,236.4312
+PORT-1012,JPM,JPMorgan Chase & Co.,3,Financial Services,293.2944
+PORT-1012,MSFT,Microsoft Corporation,21,Technology,338.3894
+PORT-1012,AMZN,"Amazon.com, Inc.",132,Consumer Cyclical,241.9465
+PORT-1012,AAPL,Apple Inc.,116,Technology,261.114
+PORT-1012,MA,Mastercard Incorporated,147,Financial Services,475.2384
+PORT-1012,AAPL,Apple Inc.,134,Technology,239.3545
+PORT-1012,AMZN,"Amazon.com, Inc.",89,Consumer Cyclical,288.161
+PORT-1012,MSFT,Microsoft Corporation,108,Technology,342.5161
+PORT-1012,PYPL,"PayPal Holdings, Inc.",150,Financial Services,38.5088
+PORT-1012,AMZN,"Amazon.com, Inc.",113,Consumer Cyclical,290.8795
+PORT-1012,AMZN,"Amazon.com, Inc.",101,Consumer Cyclical,269.1315
+PORT-1012,PG,The Procter & Gamble Company,36,Consumer Defensive,110.6175
+PORT-1012,INTC,Intel Corporation,130,Technology,130.2939
+PORT-1012,JPM,JPMorgan Chase & Co.,54,Financial Services,323.2224
+PORT-1012,AMZN,"Amazon.com, Inc.",14,Consumer Cyclical,190.295
+PORT-1012,INTC,Intel Corporation,37,Technology,102.2868
+PORT-1012,AAPL,Apple Inc.,142,Technology,307.7415
+PORT-1012,GE,General Electric Company,107,Industrials,336.2426
+PORT-1012,CVS,CVS Health Corporation,72,Healthcare,72.7353
+PORT-1012,MSFT,Microsoft Corporation,5,Technology,404.4166
+PORT-1012,PYPL,"PayPal Holdings, Inc.",70,Financial Services,48.136
+PORT-1012,ABBV,AbbVie Inc.,74,Healthcare,189.552
+PORT-1012,CVS,CVS Health Corporation,82,Healthcare,96.6735
+PORT-1012,MSFT,Microsoft Corporation,129,Technology,449.8103
+PORT-1012,UNH,UnitedHealth Group Incorporated,51,Healthcare,391.6902
+PORT-1013,KO,The Coca-Cola Company,94,Consumer Defensive,79.1714
+PORT-1013,VOO,Vanguard S&P 500 ETF,6,Index Funds / ETFs,517.47
+PORT-1013,QQQ,Invesco QQQ Trust,122,Index Funds / ETFs,547.0875
+PORT-1013,NVDA,NVIDIA Corporation,31,Technology,206.222
+PORT-1013,SOFI,"SoFi Technologies, Inc.",52,Financial Services,11.6424
+PORT-1013,MA,Mastercard Incorporated,98,Financial Services,371.28
+PORT-1013,TSLA,"Tesla, Inc.",114,Consumer Cyclical,400.7276
+PORT-1013,GOOG,Alphabet Inc.,128,Technology,400.2232
+PORT-1013,SOFI,"SoFi Technologies, Inc.",75,Financial Services,16.8168
+PORT-1013,BA,The Boeing Company,102,Industrials,213.085
+PORT-1013,UNH,UnitedHealth Group Incorporated,60,Healthcare,376.3298
+PORT-1013,UNH,UnitedHealth Group Incorporated,61,Healthcare,288.0075
+PORT-1013,KO,The Coca-Cola Company,124,Consumer Defensive,57.134
+PORT-1013,BA,The Boeing Company,68,Industrials,165.982
+PORT-1013,NVDA,NVIDIA Corporation,146,Technology,195.592
+PORT-1013,GE,General Electric Company,74,Industrials,275.9727
+PORT-1013,PLTR,Palantir Technologies Inc.,28,Technology,96.7323
+PORT-1013,GE,General Electric Company,108,Industrials,336.2426
+PORT-1013,PG,The Procter & Gamble Company,108,Consumer Defensive,123.8916
+PORT-1013,KO,The Coca-Cola Company,18,Consumer Defensive,89.782
+PORT-1013,JPM,JPMorgan Chase & Co.,58,Financial Services,299.28
+PORT-1013,QQQ,Invesco QQQ Trust,148,Index Funds / ETFs,568.971
+PORT-1013,UNH,UnitedHealth Group Incorporated,137,Healthcare,299.5278
+PORT-1013,QQQ,Invesco QQQ Trust,72,Index Funds / ETFs,692.9775
+PORT-1013,VOO,Vanguard S&P 500 ETF,6,Index Funds / ETFs,593.3656
+PORT-1013,PLTR,Palantir Technologies Inc.,34,Technology,111.3084
+PORT-1013,AMZN,"Amazon.com, Inc.",63,Consumer Cyclical,212.043
+PORT-1013,QQQ,Invesco QQQ Trust,118,Index Funds / ETFs,598.149
+PORT-1013,MSFT,Microsoft Corporation,22,Technology,429.1768
+PORT-1013,CVS,CVS Health Corporation,136,Healthcare,88.3872
+PORT-1013,MSFT,Microsoft Corporation,96,Technology,420.9234
+PORT-1013,UNH,UnitedHealth Group Incorporated,77,Healthcare,376.3298
+PORT-1013,VOO,Vanguard S&P 500 ETF,35,Index Funds / ETFs,517.47
+PORT-1013,BA,The Boeing Company,44,Industrials,163.739
+PORT-1013,MSFT,Microsoft Corporation,150,Technology,288.869
+PORT-1013,SOFI,"SoFi Technologies, Inc.",115,Financial Services,12.2892
+PORT-1013,QQQ,Invesco QQQ Trust,25,Index Funds / ETFs,663.7995
+PORT-1013,WMT,Walmart Inc.,6,Consumer Defensive,117.3546
+PORT-1013,CVS,CVS Health Corporation,23,Healthcare,76.4181
+PORT-1013,AMZN,"Amazon.com, Inc.",111,Consumer Cyclical,212.043
+PORT-1013,PYPL,"PayPal Holdings, Inc.",57,Financial Services,38.0712
+PORT-1013,WMT,Walmart Inc.,149,Consumer Defensive,105.5006
+PORT-1013,ABBV,AbbVie Inc.,26,Healthcare,168.012
+PORT-1013,JPM,JPMorgan Chase & Co.,84,Financial Services,263.3664
+PORT-1013,XOM,Exxon Mobil Corporation,4,Energy,122.757
+PORT-1013,PLTR,Palantir Technologies Inc.,89,Technology,111.3084
+PORT-1013,XOM,Exxon Mobil Corporation,12,Energy,125.715
+PORT-1013,TSLA,"Tesla, Inc.",108,Consumer Cyclical,339.0772
+PORT-1013,NVDA,NVIDIA Corporation,49,Technology,176.458
+PORT-1013,PG,The Procter & Gamble Company,18,Consumer Defensive,104.7179
+PORT-1013,UNH,UnitedHealth Group Incorporated,41,Healthcare,284.1674
+PORT-1013,KO,The Coca-Cola Company,138,Consumer Defensive,84.0686
+PORT-1013,GE,General Electric Company,109,Industrials,285.489
+PORT-1013,AAPL,Apple Inc.,63,Technology,289.0905
+PORT-1013,PG,The Procter & Gamble Company,72,Consumer Defensive,117.992
+PORT-1013,TSLA,"Tesla, Inc.",137,Consumer Cyclical,383.1132
+PORT-1013,PYPL,"PayPal Holdings, Inc.",47,Financial Services,41.1344
+PORT-1013,GOOG,Alphabet Inc.,45,Technology,396.3749
+PORT-1013,PG,The Procter & Gamble Company,48,Consumer Defensive,128.3163
+PORT-1013,QQQ,Invesco QQQ Trust,2,Index Funds / ETFs,598.149
+PORT-1013,PG,The Procter & Gamble Company,96,Consumer Defensive,151.9147
+PORT-1013,AMZN,"Amazon.com, Inc.",108,Consumer Cyclical,247.3835
+PORT-1013,SOFI,"SoFi Technologies, Inc.",128,Financial Services,15.5232
+PORT-1013,MSFT,Microsoft Corporation,4,Technology,379.6564
+PORT-1013,VOO,Vanguard S&P 500 ETF,86,Index Funds / ETFs,503.6708
+PORT-1013,MA,Mastercard Incorporated,25,Financial Services,475.2384
+PORT-1013,INTC,Intel Corporation,40,Technology,94.9806
+PORT-1013,UNH,UnitedHealth Group Incorporated,118,Healthcare,284.1674
+PORT-1013,GE,General Electric Company,133,Industrials,333.0705
+PORT-1013,JPM,JPMorgan Chase & Co.,45,Financial Services,305.2656
+PORT-1013,JPM,JPMorgan Chase & Co.,132,Financial Services,281.3232
+PORT-1013,CVS,CVS Health Corporation,84,Healthcare,95.7528
+PORT-1013,MSFT,Microsoft Corporation,77,Technology,326.0093
+PORT-1013,AMZN,"Amazon.com, Inc.",149,Consumer Cyclical,209.3245
+PORT-1013,GOOG,Alphabet Inc.,33,Technology,384.83
+PORT-1013,QQQ,Invesco QQQ Trust,10,Index Funds / ETFs,517.9095
+PORT-1013,PG,The Procter & Gamble Company,80,Consumer Defensive,131.2661
+PORT-1013,JPM,JPMorgan Chase & Co.,118,Financial Services,251.3952
+PORT-1013,ABBV,AbbVie Inc.,131,Healthcare,213.246
+PORT-1013,VOO,Vanguard S&P 500 ETF,120,Index Funds / ETFs,551.968
+PORT-1013,AMZN,"Amazon.com, Inc.",129,Consumer Cyclical,271.85
+PORT-1013,GOOG,Alphabet Inc.,11,Technology,373.2851
+PORT-1013,GOOG,Alphabet Inc.,116,Technology,284.7742
+PORT-1013,QQQ,Invesco QQQ Trust,55,Index Funds / ETFs,787.806
+PORT-1013,VOO,Vanguard S&P 500 ETF,140,Index Funds / ETFs,614.0644
+PORT-1013,QQQ,Invesco QQQ Trust,17,Index Funds / ETFs,598.149
+PORT-1013,ABBV,AbbVie Inc.,82,Healthcare,168.012
+PORT-1013,VOO,Vanguard S&P 500 ETF,17,Index Funds / ETFs,565.7672
+PORT-1013,VOO,Vanguard S&P 500 ETF,71,Index Funds / ETFs,731.3576
+PORT-1013,CVS,CVS Health Corporation,16,Healthcare,90.2286
+PORT-1013,INTC,Intel Corporation,98,Technology,104.7222
+PORT-1013,GE,General Electric Company,120,Industrials,301.3495
+PORT-1013,MA,Mastercard Incorporated,145,Financial Services,499.9904
+PORT-1013,INTC,Intel Corporation,31,Technology,92.5452
+PORT-1013,TSLA,"Tesla, Inc.",54,Consumer Cyclical,462.378
+PORT-1013,PG,The Procter & Gamble Company,39,Consumer Defensive,120.9418
+PORT-1013,QQQ,Invesco QQQ Trust,78,Index Funds / ETFs,744.039
+PORT-1013,WMT,Walmart Inc.,83,Consumer Defensive,109.0568
+PORT-1013,AMZN,"Amazon.com, Inc.",84,Consumer Cyclical,288.161
+PORT-1013,MA,Mastercard Incorporated,65,Financial Services,514.8416
+PORT-1013,PG,The Procter & Gamble Company,119,Consumer Defensive,160.7641
+PORT-1013,ABBV,AbbVie Inc.,116,Healthcare,215.4
+PORT-1013,KO,The Coca-Cola Company,141,Consumer Defensive,88.1496
+PORT-1013,JPM,JPMorgan Chase & Co.,58,Financial Services,263.3664
+PORT-1013,XOM,Exxon Mobil Corporation,126,Energy,140.505
+PORT-1013,TSLA,"Tesla, Inc.",29,Consumer Cyclical,444.7636
+PORT-1013,PLTR,Palantir Technologies Inc.,19,Technology,115.2837
+PORT-1013,GE,General Electric Company,48,Industrials,285.489
+PORT-1013,KO,The Coca-Cola Company,93,Consumer Defensive,78.3552
+PORT-1013,XOM,Exxon Mobil Corporation,40,Energy,125.715
+PORT-1013,KO,The Coca-Cola Company,81,Consumer Defensive,60.3988
+PORT-1013,ABBV,AbbVie Inc.,141,Healthcare,217.554
+PORT-1013,PG,The Procter & Gamble Company,113,Consumer Defensive,147.49
+PORT-1013,ABBV,AbbVie Inc.,112,Healthcare,230.478
+PORT-1013,GOOG,Alphabet Inc.,28,Technology,269.381
+PORT-1013,GE,General Electric Company,62,Industrials,348.931
+PORT-1013,UNH,UnitedHealth Group Incorporated,143,Healthcare,410.8907
+PORT-1013,GOOG,Alphabet Inc.,68,Technology,311.7123
+PORT-1013,TSLA,"Tesla, Inc.",90,Consumer Cyclical,422.7456
+PORT-1013,PG,The Procter & Gamble Company,49,Consumer Defensive,143.0653
+PORT-1014,PG,The Procter & Gamble Company,37,Consumer Defensive,157.8143
+PORT-1014,PG,The Procter & Gamble Company,34,Consumer Defensive,115.0422
+PORT-1014,AMZN,"Amazon.com, Inc.",99,Consumer Cyclical,244.665
+PORT-1014,AAPL,Apple Inc.,41,Technology,254.897
+PORT-1014,BA,The Boeing Company,129,Industrials,183.926
+PORT-1014,CVS,CVS Health Corporation,149,Healthcare,76.4181
+PORT-1014,PLTR,Palantir Technologies Inc.,133,Technology,143.1108
+PORT-1014,CVS,CVS Health Corporation,113,Healthcare,92.07
+PORT-1014,PYPL,"PayPal Holdings, Inc.",137,Financial Services,37.196
+PORT-1014,KO,The Coca-Cola Company,138,Consumer Defensive,83.2524
+PORT-1014,INTC,Intel Corporation,147,Technology,107.1576
+PORT-1014,QQQ,Invesco QQQ Trust,16,Index Funds / ETFs,729.45
+PORT-1014,WMT,Walmart Inc.,59,Consumer Defensive,118.54
+PORT-1014,MA,Mastercard Incorporated,2,Financial Services,465.3376
+PORT-1014,PG,The Procter & Gamble Company,31,Consumer Defensive,107.6677
+PORT-1014,JPM,JPMorgan Chase & Co.,8,Financial Services,230.4456
+PORT-1014,SOFI,"SoFi Technologies, Inc.",54,Financial Services,13.7445
+PORT-1014,AMZN,"Amazon.com, Inc.",29,Consumer Cyclical,209.3245
+PORT-1014,UNH,UnitedHealth Group Incorporated,3,Healthcare,272.6471
+PORT-1014,PYPL,"PayPal Holdings, Inc.",87,Financial Services,43.76
+PORT-1014,AAPL,Apple Inc.,8,Technology,239.3545
+PORT-1014,AAPL,Apple Inc.,81,Technology,220.7035
+PORT-1014,JPM,JPMorgan Chase & Co.,112,Financial Services,287.3088
+PORT-1014,PYPL,"PayPal Holdings, Inc.",91,Financial Services,44.1976
+PORT-1014,INTC,Intel Corporation,105,Technology,103.5045
+PORT-1014,PYPL,"PayPal Holdings, Inc.",122,Financial Services,37.196
+PORT-1014,QQQ,Invesco QQQ Trust,129,Index Funds / ETFs,539.793
+PORT-1014,WMT,Walmart Inc.,124,Consumer Defensive,104.3152
+PORT-1014,KO,The Coca-Cola Company,118,Consumer Defensive,71.8256
+PORT-1014,XOM,Exxon Mobil Corporation,132,Energy,146.421
+PORT-1014,MA,Mastercard Incorporated,14,Financial Services,539.5936
+PORT-1014,GOOG,Alphabet Inc.,60,Technology,327.1055
+PORT-1014,CVS,CVS Health Corporation,113,Healthcare,64.449
+PORT-1014,INTC,Intel Corporation,119,Technology,90.1098
+PORT-1014,CVS,CVS Health Corporation,38,Healthcare,66.2904
+PORT-1014,AAPL,Apple Inc.,131,Technology,264.2225
+PORT-1014,SOFI,"SoFi Technologies, Inc.",88,Financial Services,11.6424
+PORT-1014,KO,The Coca-Cola Company,61,Consumer Defensive,66.9284
+PORT-1014,BA,The Boeing Company,57,Industrials,204.113
+PORT-1014,XOM,Exxon Mobil Corporation,67,Energy,137.547
+PORT-1014,WMT,Walmart Inc.,148,Consumer Defensive,107.8714
+PORT-1014,UNH,UnitedHealth Group Incorporated,26,Healthcare,372.4897
+PORT-1014,WMT,Walmart Inc.,43,Consumer Defensive,97.2028
+PORT-1014,UNH,UnitedHealth Group Incorporated,150,Healthcare,364.8095
+PORT-1014,PYPL,"PayPal Holdings, Inc.",99,Financial Services,31.5072
+PORT-1014,GE,General Electric Company,119,Industrials,241.0796
+PORT-1014,WMT,Walmart Inc.,116,Consumer Defensive,113.7984
+PORT-1014,WMT,Walmart Inc.,25,Consumer Defensive,98.3882
+PORT-1014,MSFT,Microsoft Corporation,27,Technology,359.0229
+PORT-1014,PLTR,Palantir Technologies Inc.,102,Technology,108.6582
+PORT-1014,BA,The Boeing Company,105,Industrials,242.244
+PORT-1014,PLTR,Palantir Technologies Inc.,79,Technology,140.4606
+PORT-1014,AAPL,Apple Inc.,71,Technology,261.114
+PORT-1014,PYPL,"PayPal Holdings, Inc.",83,Financial Services,33.6952
+PORT-1014,QQQ,Invesco QQQ Trust,140,Index Funds / ETFs,692.9775
+PORT-1014,CVS,CVS Health Corporation,52,Healthcare,86.5458
+PORT-1014,QQQ,Invesco QQQ Trust,86,Index Funds / ETFs,605.4435
+PORT-1014,SOFI,"SoFi Technologies, Inc.",73,Financial Services,15.1998
+PORT-1014,NVDA,NVIDIA Corporation,126,Technology,182.836
+PORT-1014,VOO,Vanguard S&P 500 ETF,95,Index Funds / ETFs,593.3656
+PORT-1014,SOFI,"SoFi Technologies, Inc.",75,Financial Services,12.2892
+PORT-1014,BA,The Boeing Company,150,Industrials,219.814
+PORT-1014,INTC,Intel Corporation,46,Technology,103.5045
+PORT-1014,VOO,Vanguard S&P 500 ETF,112,Index Funds / ETFs,669.2612
+PORT-1014,PG,The Procter & Gamble Company,14,Consumer Defensive,128.3163
+PORT-1014,INTC,Intel Corporation,13,Technology,131.5116
+PORT-1014,ABBV,AbbVie Inc.,140,Healthcare,236.94
+PORT-1014,KO,The Coca-Cola Company,86,Consumer Defensive,57.134
+PORT-1014,QQQ,Invesco QQQ Trust,99,Index Funds / ETFs,510.615
+PORT-1014,PLTR,Palantir Technologies Inc.,61,Technology,135.1602
+PORT-1014,UNH,UnitedHealth Group Incorporated,98,Healthcare,364.8095
+PORT-1014,INTC,Intel Corporation,100,Technology,122.9877
+PORT-1014,PLTR,Palantir Technologies Inc.,60,Technology,143.1108
+PORT-1014,PYPL,"PayPal Holdings, Inc.",66,Financial Services,45.5104
+PORT-1014,PG,The Procter & Gamble Company,43,Consumer Defensive,137.1657
+PORT-1014,PLTR,Palantir Technologies Inc.,123,Technology,123.2343
+PORT-1014,MA,Mastercard Incorporated,110,Financial Services,351.4784
+PORT-1014,AAPL,Apple Inc.,149,Technology,301.5245
+PORT-1014,SOFI,"SoFi Technologies, Inc.",77,Financial Services,11.4807
+PORT-1014,TSLA,"Tesla, Inc.",142,Consumer Cyclical,400.7276
+PORT-1014,AMZN,"Amazon.com, Inc.",70,Consumer Cyclical,255.539
+PORT-1014,PG,The Procter & Gamble Company,56,Consumer Defensive,126.8414
+PORT-1014,AAPL,Apple Inc.,71,Technology,341.935
+PORT-1014,NVDA,NVIDIA Corporation,10,Technology,231.734
+PORT-1014,TSLA,"Tesla, Inc.",21,Consumer Cyclical,343.4808
+PORT-1014,PLTR,Palantir Technologies Inc.,77,Technology,104.6829
+PORT-1014,WMT,Walmart Inc.,6,Consumer Defensive,130.394
+PORT-1014,PLTR,Palantir Technologies Inc.,62,Technology,137.8104
+PORT-1014,MSFT,Microsoft Corporation,42,Technology,425.0501
+PORT-1014,SOFI,"SoFi Technologies, Inc.",115,Financial Services,14.0679
+PORT-1014,KO,The Coca-Cola Company,63,Consumer Defensive,78.3552
+PORT-1014,CVS,CVS Health Corporation,137,Healthcare,90.2286
+PORT-1014,SOFI,"SoFi Technologies, Inc.",149,Financial Services,15.5232
+PORT-1014,BA,The Boeing Company,141,Industrials,157.01
+PORT-1014,UNH,UnitedHealth Group Incorporated,88,Healthcare,318.7283
+PORT-1014,KO,The Coca-Cola Company,147,Consumer Defensive,84.8848
+PORT-1014,UNH,UnitedHealth Group Incorporated,82,Healthcare,318.7283
+PORT-1014,AAPL,Apple Inc.,46,Technology,223.812
+PORT-1014,KO,The Coca-Cola Company,86,Consumer Defensive,79.1714
+PORT-1014,XOM,Exxon Mobil Corporation,69,Energy,143.463
+PORT-1014,MA,Mastercard Incorporated,14,Financial Services,430.6848
+PORT-1014,AAPL,Apple Inc.,19,Technology,335.718
+PORT-1014,WMT,Walmart Inc.,133,Consumer Defensive,99.5736
+PORT-1014,BA,The Boeing Company,69,Industrials,174.954
+PORT-1014,TSLA,"Tesla, Inc.",102,Consumer Cyclical,387.5168
+PORT-1014,JPM,JPMorgan Chase & Co.,67,Financial Services,317.2368
+PORT-1014,CVS,CVS Health Corporation,63,Healthcare,76.4181
+PORT-1014,CVS,CVS Health Corporation,99,Healthcare,93.9114
+PORT-1014,INTC,Intel Corporation,114,Technology,109.593
+PORT-1014,VOO,Vanguard S&P 500 ETF,41,Index Funds / ETFs,600.2652
+PORT-1014,MA,Mastercard Incorporated,80,Financial Services,460.3872
+PORT-1014,QQQ,Invesco QQQ Trust,129,Index Funds / ETFs,751.3335
+PORT-1014,MSFT,Microsoft Corporation,120,Technology,429.1768
+PORT-1014,UNH,UnitedHealth Group Incorporated,5,Healthcare,360.9694
+PORT-1014,VOO,Vanguard S&P 500 ETF,99,Index Funds / ETFs,745.1568
+PORT-1014,GE,General Electric Company,17,Industrials,263.2843
+PORT-1014,ABBV,AbbVie Inc.,73,Healthcare,157.242
+PORT-1014,JPM,JPMorgan Chase & Co.,136,Financial Services,251.3952
+PORT-1014,AMZN,"Amazon.com, Inc.",84,Consumer Cyclical,222.917
+PORT-1014,SOFI,"SoFi Technologies, Inc.",85,Financial Services,12.1275
+PORT-1014,ABBV,AbbVie Inc.,76,Healthcare,150.78
+PORT-1014,CVS,CVS Health Corporation,132,Healthcare,66.2904
+PORT-1014,QQQ,Invesco QQQ Trust,55,Index Funds / ETFs,547.0875
+PORT-1014,AMZN,"Amazon.com, Inc.",89,Consumer Cyclical,209.3245
+PORT-1014,CVS,CVS Health Corporation,130,Healthcare,81.0216
+PORT-1014,NVDA,NVIDIA Corporation,76,Technology,184.962
+PORT-1014,QQQ,Invesco QQQ Trust,35,Index Funds / ETFs,780.5115
+PORT-1014,KO,The Coca-Cola Company,141,Consumer Defensive,79.1714
+PORT-1014,ABBV,AbbVie Inc.,82,Healthcare,200.322
+PORT-1014,TSLA,"Tesla, Inc.",108,Consumer Cyclical,378.7096
+PORT-1014,GE,General Electric Company,145,Industrials,234.7354
+PORT-1014,PYPL,"PayPal Holdings, Inc.",98,Financial Services,45.5104
+PORT-1014,JPM,JPMorgan Chase & Co.,17,Financial Services,317.2368
+PORT-1014,NVDA,NVIDIA Corporation,44,Technology,216.852
+PORT-1014,NVDA,NVIDIA Corporation,91,Technology,172.206
+PORT-1014,TSLA,"Tesla, Inc.",71,Consumer Cyclical,418.342
+PORT-1014,SOFI,"SoFi Technologies, Inc.",121,Financial Services,17.787
+PORT-1014,UNH,UnitedHealth Group Incorporated,100,Healthcare,387.8501
+PORT-1014,MSFT,Microsoft Corporation,120,Technology,433.3035
+PORT-1014,XOM,Exxon Mobil Corporation,29,Energy,162.69
+PORT-1014,GOOG,Alphabet Inc.,24,Technology,423.313
+PORT-1015,NVDA,NVIDIA Corporation,43,Technology,225.356
+PORT-1015,AAPL,Apple Inc.,58,Technology,233.1375
+PORT-1015,CVS,CVS Health Corporation,107,Healthcare,83.7837
+PORT-1015,GE,General Electric Company,122,Industrials,288.6611
+PORT-1015,XOM,Exxon Mobil Corporation,70,Energy,156.774
+PORT-1015,QQQ,Invesco QQQ Trust,22,Index Funds / ETFs,773.217
+PORT-1015,ABBV,AbbVie Inc.,146,Healthcare,213.246
+PORT-1015,KO,The Coca-Cola Company,59,Consumer Defensive,77.539
+PORT-1015,AAPL,Apple Inc.,71,Technology,292.199
+PORT-1015,AAPL,Apple Inc.,109,Technology,320.1755
+PORT-1015,SOFI,"SoFi Technologies, Inc.",92,Financial Services,15.0381
+PORT-1015,JPM,JPMorgan Chase & Co.,136,Financial Services,275.3376
+PORT-1015,XOM,Exxon Mobil Corporation,143,Energy,153.816
+PORT-1015,MSFT,Microsoft Corporation,20,Technology,453.937
+PORT-1015,UNH,UnitedHealth Group Incorporated,2,Healthcare,353.2892
+PORT-1015,GOOG,Alphabet Inc.,64,Technology,384.83
+PORT-1015,INTC,Intel Corporation,65,Technology,85.239
+PORT-1015,UNH,UnitedHealth Group Incorporated,26,Healthcare,407.0506
+PORT-1015,TSLA,"Tesla, Inc.",70,Consumer Cyclical,422.7456
+PORT-1015,SOFI,"SoFi Technologies, Inc.",6,Financial Services,12.4509
+PORT-1015,GE,General Electric Company,66,Industrials,323.5542
+PORT-1015,MSFT,Microsoft Corporation,69,Technology,363.1496
+PORT-1015,PG,The Procter & Gamble Company,15,Consumer Defensive,138.6406
+PORT-1015,WMT,Walmart Inc.,133,Consumer Defensive,116.1692
+PORT-1015,VOO,Vanguard S&P 500 ETF,89,Index Funds / ETFs,676.1608
+PORT-1015,PG,The Procter & Gamble Company,50,Consumer Defensive,157.8143
+PORT-1015,JPM,JPMorgan Chase & Co.,62,Financial Services,275.3376
+PORT-1015,TSLA,"Tesla, Inc.",119,Consumer Cyclical,356.6916
+PORT-1015,MA,Mastercard Incorporated,5,Financial Services,361.3792
+PORT-1015,AAPL,Apple Inc.,66,Technology,261.114
+PORT-1015,NVDA,NVIDIA Corporation,150,Technology,206.222
+PORT-1015,TSLA,"Tesla, Inc.",64,Consumer Cyclical,387.5168
+PORT-1015,GOOG,Alphabet Inc.,14,Technology,407.9198
+PORT-1015,QQQ,Invesco QQQ Trust,29,Index Funds / ETFs,685.683
+PORT-1015,QQQ,Invesco QQQ Trust,3,Index Funds / ETFs,744.039
+PORT-1015,AMZN,"Amazon.com, Inc.",12,Consumer Cyclical,206.606
+PORT-1015,CVS,CVS Health Corporation,93,Healthcare,69.9732
+PORT-1015,UNH,UnitedHealth Group Incorporated,4,Healthcare,295.6877
+PORT-1015,NVDA,NVIDIA Corporation,98,Technology,176.458
+PORT-1015,CVS,CVS Health Corporation,7,Healthcare,99.4356
+PORT-1015,XOM,Exxon Mobil Corporation,53,Energy,124.236
+PORT-1015,VOO,Vanguard S&P 500 ETF,148,Index Funds / ETFs,745.1568
+PORT-1015,BA,The Boeing Company,126,Industrials,159.253
+PORT-1015,JPM,JPMorgan Chase & Co.,121,Financial Services,254.388
+PORT-1015,INTC,Intel Corporation,120,Technology,122.9877
+PORT-1015,MSFT,Microsoft Corporation,148,Technology,396.1632
+PORT-1015,PG,The Procter & Gamble Company,49,Consumer Defensive,153.3896
+PORT-1015,PYPL,"PayPal Holdings, Inc.",61,Financial Services,33.2576
+PORT-1015,JPM,JPMorgan Chase & Co.,95,Financial Services,293.2944
+PORT-1015,KO,The Coca-Cola Company,73,Consumer Defensive,76.7228
+PORT-1015,ABBV,AbbVie Inc.,86,Healthcare,230.478
+PORT-1015,INTC,Intel Corporation,21,Technology,113.2461
+PORT-1015,AAPL,Apple Inc.,30,Technology,273.548
+PORT-1015,BA,The Boeing Company,50,Industrials,197.384
+PORT-1015,XOM,Exxon Mobil Corporation,142,Energy,152.337
+PORT-1015,SOFI,"SoFi Technologies, Inc.",31,Financial Services,13.7445
+PORT-1015,XOM,Exxon Mobil Corporation,11,Energy,121.278
+PORT-1015,KO,The Coca-Cola Company,32,Consumer Defensive,74.2742
+PORT-1015,ABBV,AbbVie Inc.,136,Healthcare,236.94
+PORT-1015,INTC,Intel Corporation,31,Technology,97.416
+PORT-1015,CVS,CVS Health Corporation,100,Healthcare,96.6735
+PORT-1015,WMT,Walmart Inc.,35,Consumer Defensive,111.4276
+PORT-1015,TSLA,"Tesla, Inc.",94,Consumer Cyclical,312.6556
+PORT-1015,BA,The Boeing Company,122,Industrials,228.786
+PORT-1015,GE,General Electric Company,58,Industrials,253.768
+PORT-1015,AMZN,"Amazon.com, Inc.",86,Consumer Cyclical,198.4505
+PORT-1015,MSFT,Microsoft Corporation,113,Technology,445.6836
+PORT-1015,BA,The Boeing Company,37,Industrials,163.739
+PORT-1015,INTC,Intel Corporation,2,Technology,114.4638
+PORT-1015,VOO,Vanguard S&P 500 ETF,10,Index Funds / ETFs,558.8676
+PORT-1015,PYPL,"PayPal Holdings, Inc.",147,Financial Services,35.4456
+PORT-1015,QQQ,Invesco QQQ Trust,85,Index Funds / ETFs,576.2655
+PORT-1015,WMT,Walmart Inc.,69,Consumer Defensive,82.978
+PORT-1015,NVDA,NVIDIA Corporation,51,Technology,218.978
+PORT-1015,KO,The Coca-Cola Company,75,Consumer Defensive,63.6636
+PORT-1015,MA,Mastercard Incorporated,62,Financial Services,490.0896
+PORT-1015,AMZN,"Amazon.com, Inc.",117,Consumer Cyclical,282.724
+PORT-1015,AMZN,"Amazon.com, Inc.",71,Consumer Cyclical,260.976
+PORT-1015,GOOG,Alphabet Inc.,99,Technology,396.3749
+PORT-1015,NVDA,NVIDIA Corporation,51,Technology,231.734
+PORT-1015,QQQ,Invesco QQQ Trust,19,Index Funds / ETFs,620.0325
+PORT-1015,MA,Mastercard Incorporated,118,Financial Services,420.784
+PORT-1015,XOM,Exxon Mobil Corporation,30,Energy,159.732
+PORT-1015,UNH,UnitedHealth Group Incorporated,128,Healthcare,360.9694
+PORT-1015,SOFI,"SoFi Technologies, Inc.",55,Financial Services,16.3317
+PORT-1015,TSLA,"Tesla, Inc.",16,Consumer Cyclical,431.5528
+PORT-1015,INTC,Intel Corporation,27,Technology,99.8514
+PORT-1015,MA,Mastercard Incorporated,59,Financial Services,490.0896
+PORT-1015,INTC,Intel Corporation,105,Technology,108.3753
+PORT-1015,UNH,UnitedHealth Group Incorporated,126,Healthcare,268.807
+PORT-1015,WMT,Walmart Inc.,26,Consumer Defensive,117.3546
+PORT-1015,KO,The Coca-Cola Company,48,Consumer Defensive,66.9284
+PORT-1015,GE,General Electric Company,75,Industrials,260.1122
+PORT-1015,KO,The Coca-Cola Company,12,Consumer Defensive,67.7446
+PORT-1015,PYPL,"PayPal Holdings, Inc.",143,Financial Services,43.3224
+PORT-1015,PYPL,"PayPal Holdings, Inc.",146,Financial Services,34.5704
+PORT-1015,GOOG,Alphabet Inc.,92,Technology,338.6504
+PORT-1015,NVDA,NVIDIA Corporation,96,Technology,221.104
+PORT-1015,KO,The Coca-Cola Company,27,Consumer Defensive,70.1932
+PORT-1015,MSFT,Microsoft Corporation,19,Technology,429.1768
+PORT-1015,TSLA,"Tesla, Inc.",74,Consumer Cyclical,343.4808
+PORT-1015,VOO,Vanguard S&P 500 ETF,81,Index Funds / ETFs,565.7672
+PORT-1015,CVS,CVS Health Corporation,101,Healthcare,72.7353
+PORT-1015,NVDA,NVIDIA Corporation,105,Technology,170.08
+PORT-1015,JPM,JPMorgan Chase & Co.,50,Financial Services,218.4744
+PORT-1015,VOO,Vanguard S&P 500 ETF,108,Index Funds / ETFs,545.0684
+PORT-1015,ABBV,AbbVie Inc.,41,Healthcare,170.166
+PORT-1015,PG,The Procter & Gamble Company,139,Consumer Defensive,132.741
+PORT-1015,AMZN,"Amazon.com, Inc.",122,Consumer Cyclical,201.169
+PORT-1015,WMT,Walmart Inc.,131,Consumer Defensive,101.9444
+PORT-1015,AAPL,Apple Inc.,61,Technology,233.1375
+PORT-1015,SOFI,"SoFi Technologies, Inc.",51,Financial Services,14.8764
+PORT-1015,MA,Mastercard Incorporated,80,Financial Services,514.8416
+PORT-1015,SOFI,"SoFi Technologies, Inc.",16,Financial Services,11.6424
+PORT-1015,ABBV,AbbVie Inc.,87,Healthcare,230.478
+PORT-1015,TSLA,"Tesla, Inc.",76,Consumer Cyclical,352.288
+PORT-1015,JPM,JPMorgan Chase & Co.,58,Financial Services,218.4744
+PORT-1015,MA,Mastercard Incorporated,94,Financial Services,425.7344
+PORT-1015,GE,General Electric Company,81,Industrials,291.8332
+PORT-1015,BA,The Boeing Company,146,Industrials,199.627
+PORT-1015,VOO,Vanguard S&P 500 ETF,51,Index Funds / ETFs,724.458
+PORT-1015,XOM,Exxon Mobil Corporation,107,Energy,125.715
+PORT-1015,TSLA,"Tesla, Inc.",141,Consumer Cyclical,383.1132
+PORT-1015,BA,The Boeing Company,10,Industrials,159.253
+PORT-1015,PLTR,Palantir Technologies Inc.,85,Technology,106.008
+PORT-1015,GOOG,Alphabet Inc.,96,Technology,319.4089
+PORT-1015,AMZN,"Amazon.com, Inc.",5,Consumer Cyclical,225.6355
+PORT-1015,KO,The Coca-Cola Company,105,Consumer Defensive,63.6636
+PORT-1015,VOO,Vanguard S&P 500 ETF,121,Index Funds / ETFs,676.1608
+PORT-1015,PYPL,"PayPal Holdings, Inc.",144,Financial Services,47.6984
+PORT-1015,ABBV,AbbVie Inc.,143,Healthcare,213.246
+PORT-1015,ABBV,AbbVie Inc.,111,Healthcare,170.166
+PORT-1015,XOM,Exxon Mobil Corporation,45,Energy,156.774
+PORT-1015,VOO,Vanguard S&P 500 ETF,14,Index Funds / ETFs,558.8676
+PORT-1015,QQQ,Invesco QQQ Trust,144,Index Funds / ETFs,620.0325
+PORT-1015,JPM,JPMorgan Chase & Co.,147,Financial Services,272.3448
+PORT-1015,TSLA,"Tesla, Inc.",113,Consumer Cyclical,325.8664
